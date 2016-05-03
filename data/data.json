@@ -1,0 +1,700 @@
+[
+  {
+    "id": 1000,
+    "level": 0,
+    "name": "Gus Van Sant",
+    "children": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ]
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "name": "Jeune garde",
+    "children": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "name": "Star-system hollywoodien",
+    "children": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "name": "Beat Generation",
+    "children": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "name": "Histoire du cinéma",
+    "children": [
+      18,
+      19,
+      20,
+      21,
+      23
+    ]
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "name": "Photographie",
+    "children": [
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "name": "Rock/pop",
+    "children": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "name": "Musiques",
+    "children": [
+      36,
+      37
+    ]
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "name": "Technique",
+    "children": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "name": "Frères de cinéma",
+    "children": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 1,
+    "level": 2,
+    "name": "River Phoenix",
+    "text": "<p>Gus Van Sant se souvient de leur première rencontre. «&nbsp;River m'a fait l'effet d'avoir une personnalité forte&nbsp;: doux, intelligent, drôle, créatif, mais un peu barge aussi. Il avait vingt ans et on est devenus très proches.&nbsp;»</p><p>Sur le plateau règne une ambiance familiale. L'équipe se sent comme un groupe de gamins dont les parents seraient absents. Libres, mais disciplinés et studieux. Phoenix, qui souhaite entrer en osmose avec son personnage, écrit la biographie de Mike, prostitué toxico narcoleptique, à la recherche de sa mère. Il enregistre tout sur une bande magnétique, réécoute, classe, étudie chaque détail très sérieusement, jusqu'à se rapprocher de jeunes marginaux de Portland et vivre avec eux. La productrice Laurie Parker raconte&nbsp;: «&nbsp;Je pense que River était fait pour ce rôle. Il avait cet air de quelqu'un qui n'avait pas forcément dormi la veille dans un lit et n'avait pas lavé ses vêtements depuis un bail. Il dégageait une espèce de tristesse intérieure, d'air calme et méditatif que l'on retrouve chez les fugueurs.&nbsp;» Pour sa sœur Rain, également présente sur le tournage, «&nbsp;les sentiments ou la tristesse qu'il ressentait au contact de ces gens&nbsp;–&nbsp;des êtres abandonnés, des enfants sans famille&nbsp;– l'ont aidé à raconter cette histoire. Il se sentait investi d'une mission, il voulait dire au reste du monde que ces jeunes existaient. Il était leur porte-parole en quelque sorte.&nbsp;»</p><p>River Phoenix a déjà plusieurs films à son actif. Il a tourné avec Rob Reiner (<em>Stand by Me</em>), Peter Weir (<em>Mosquito Coast</em>), Spielberg l'a choisi pour interpréter le jeune Indy dans <em>Indiana Jones et la dernière croisade</em>. L'année précédente, dans <em>À bout de course</em> de Sidney Lumet, il incarne, tout en grâce et en finesse, le fils aîné, en pleine rébellion, d'un couple en cavale. À 20 ans, il est déjà au sommet de sa popularité. Avec le film de Van Sant, l'idole des adolescents devient l'icône d'une jeunesse rebelle et indépendante. Un symbole d'autant plus prégnant lorsque l'acteur meurt d'une overdose à l'âge de 23 ans. Gus Van Sant l'imaginait alors en jeune Warhol dans un film sur l'artiste qu'il prévoit de réaliser, et dans le rôle de Cleve Jones sur le projet initial d'<em>Harvey Milk</em>. Excepté une scène dans <em>Even Cowgirls Get the Blues</em>, les deux hommes n'auront finalement tourné qu'un seul film ensemble. Un film devenu culte grâce au magnétisme de son acteur.</p><p><em>My Own Private Idaho</em>, dernier plan. Sur la route 216 qui mène à Portland, Mike, en pleine crise de somnolence, est allongé sur l'asphalte. Une voiture s'arrête, le ramasse et redémarre. Qui est le mystérieux conducteur&nbsp;? Son ami Scott, son frère, la mère recherchée, le paysan du coin&nbsp;? Certains y voient même Dieu l'emportant au paradis. Pour Gus Van Sant, «&nbsp;c'est juste un type qui le ramasse sur la route. Finalement c'est le spectateur qui l'emmène, ce qui est pour le mieux. Il doit continuer à errer.&nbsp;» Tout comme la figure de River, continuant de hanter les esprits de bien des acteurs après lui.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691347,
+        "desc": "Extrait <em>My Own Private Idaho</em> (Gus Van Sant, 1991)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "name": "Matt Damon",
+    "text": "<p>«&nbsp;Dans ce métier, la personne en qui j'ai le plus confiance, c'est Gus Van Sant. C'est la raison pour laquelle il a réalisé <em>Promised Land</em>. J'avais co-écrit le film avec l'ambition de le mettre en scène moi-même. Pour des questions d'emploi du temps, ça n'a pas pu se faire. Alors, le premier coup de fil que j'ai passé a été pour Gus. Il existe, c'est vrai, une forte solidarité entre nous, mais aussi une admiration mutuelle. Avant de le connaître personnellement, j'étais déjà fan de ses films.&nbsp;» Matt Damon vient tout juste de terminer le tournage de <em>Promised Land</em>, film qui marque ses retrouvailles avec Gus Van Sant, onze ans après <em>Gerry</em>.</p><p>Leur première rencontre remonte au casting de <em>Prête à tout</em>. L'acteur, qui n'est déjà plus tout à fait un inconnu, ne convient pas au rôle d'adolescent envoûté et manipulé par l'ambitieuse Nicole Kidman. Et même si Van Sant lui préfère Joaquin Phoenix, au physique plus frêle, il remarque toutefois «&nbsp;son aisance devant la caméra et une grande souplesse dans le travail.&nbsp;» Lorsqu'il reçoit deux ans plus tard le scénario de <em>Will Hunting</em> –&nbsp;écrit par Matt Damon et son camarade Ben Affleck&nbsp;– il accepte de réaliser le film, avec Damon lui-même dans le rôle de Will. «&nbsp;J'avais repéré que c'était un bon acteur, mais aussi que c'était un jeune type mignon qui pouvait venir chercher des poux à Brad Pitt et Leonardo DiCaprio si un film lui servait de révélateur.&nbsp;» Gus Van Sant ne cache pas son envie de participer au lancement d'une nouvelle star hollywoodienne. Ce qu'il réussit. Le film remporte un incroyable succès et de nombreux prix, dont l'Oscar du meilleur scénario et l'Ours d'argent pour Matt Damon, lui ouvrant grand les portes d'Hollywood.</p><p>Ce nouveau statut donne la possibilité aux deux hommes, devenus amis, de tenter de nouvelles expériences, comme celle de <em>Gerry</em>, qu'ils écrivent ensemble, cette fois avec le petit frère de Ben, Casey Affleck. Ce film, centré sur l'errance de deux personnages perdus en plein désert, est certainement le plus risqué des projets de Matt Damon, avec sa forme narrative minimaliste. Mais il naît avant tout d'une volonté de faire simplement les choses qu'il a envie de faire, sans dépendre du système. «&nbsp;<em>Will Hunting</em> a très bien marché et, de ce fait, a changé ma vie plus radicalement que n'importe quel film passé ou à venir. Mais bien que je ne sois plus le même homme, le besoin que j'éprouve à raconter une histoire est inaltérable. Pour preuve, <em>Promised Land</em> et <em>Gerry</em> comptent à mes yeux d'auteur autant que <em>Will Hunting</em>.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "2-1",
+        "desc": "Portrait de Matt Damon ©&nbsp;Gus Van Sant"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": 2,
+    "name": "Ben Affleck",
+    "text": "<p>«&nbsp;Chuckie a été tué, il s'est fait écraser comme un insecte.&nbsp;» Voici la réplique inattendue que Gus Van Sant voulait ajouter au scénario de <em>Will Hunting</em> pour mieux installer le climax de la deuxième partie. Matt Damon et Ben Affleck, pas vraiment convaincus de faire mourir le personnage de ce dernier sous une grue de chantier, tentent malgré tout d'écrire la scène. Jugeant l'idée finalement atroce, ils ne la garderont pas.</p><p>Quelques mois plus tôt, les deux amis sont loin d'imaginer l'aventure qui les attend. Au départ, Matt Damon est simplement venu trouver son ami pour l'aider à écrire un scénario. Sans trop savoir où ça les mènera, ils imaginent l'histoire de ce gamin brillant et de ses copains de quartier du South Boston. Dans les rôles du professeur et du psy, ils pensent carrément à Morgan Freeman et Robert De Niro. Ben Affleck se voit même déjà dans la peau du réalisateur, dix ans avant de diriger son frère Casey dans <em>Gone Baby Gone</em>. Finalement, les deux jeunes auteurs choisissent Gus Van Sant pour réaliser <em>Will Hunting</em>.</p><p>C'est par l'intermédiaire de Casey, justement, que Gus Van Sant et Ben Affleck se rencontrent. Voisins pendant un temps à New York, ils se connaissent depuis le tournage de <em>Prête à tout</em>. Toute la bande –&nbsp;Van Sant, Damon et les frères Affleck&nbsp;– se retrouvent donc sur le tournage de <em>Will Hunting</em>, marquant le début de plusieurs projets et collaborations et renforçant les liens d'amitié, de solidarité et leur admiration mutuelle.</p><p><em>Will Hunting</em>, dernière scène du film. Le personnage de Ben Affleck doit réciter l'ultime réplique, l'adieu à son meilleur ami Will. La première prise est bonne, mais Affleck lance un regard hébété à Van Sant. «&nbsp;Veux-tu faire une autre prise&nbsp;?&nbsp;» demande le cinéaste. «&nbsp;Ouais, ouais&nbsp;!&nbsp;», répond l'acteur. La suivante est parfaite. «&nbsp;Encore une autre&nbsp;?&nbsp;» Il feront trois prises, toutes bonnes. Van Sant sent bien qu'il est difficile pour l'acteur d'accepter la fin du tournage. Affleck attend ce moment depuis si longtemps. «&nbsp;J'ai réfléchi à cette scène tellement de fois. Je l'ai écrite, lue, réécrite, répétée dans ma tête des milliers de fois. Et quoi&nbsp;? Maintenant c'est fini&nbsp;? C'est simplement difficile d'accepter que tout ce que vous attendez depuis des années puisse se terminer en cinq minutes. C'est comme si j'avais perdu ma virginité.&nbsp;»</p><p>Aujourd'hui, lorsqu'il fait le point sur sa carrière, et en particulier sur son travail de réalisateur, Ben Affleck sait que tout a réellement commencé avec cette expérience. «&nbsp;Tout ça vient de Gus&nbsp;!&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164978803,
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "name": "Casey Affleck",
+    "text": "<p>Résumons. Casey Affleck est le frère cadet de Ben, scénariste et acteur révélé par le <em>Will Hunting</em> de Gus Van Sant. Sur le plateau de <em>Prête à tout</em> (1995), du même Van Sant, il rencontre Joaquin et Rain Phoenix, frère et sœur du regretté River (<em>My Own Private Idaho</em>, de Gus Van Sant), eux aussi castés pour le film. Casey devient le meilleur ami de Joaquin. Qui lui présente sa sœur Summer Phoenix. Qui deviendra sa femme.</p><p>La filmographie de Gus Van Sant dévoile en filigrane un tissu emmêlé et joyeux de liens artistiques, familiaux, amicaux et amoureux, incarnés notamment par la fratrie Affleck et le clan Phoenix. Casey, plus discret que la plupart des membres de cette famille recomposée, est entré en catimini dans le giron&nbsp;: invité à enfin rencontrer le réalisateur de <em>Prête à tout</em> après un casting long de 6 auditions, l'acteur en devenir se perd dans les méandres des studios de la Columbia et déboule à la réunion avec deux heures de retard. Il sera finalement repêché <em>in extremis</em>.</p><p>C'est de justesse, encore, qu'il retrouve les plateaux de Gus Van Sant trois ans plus tard, en 1997&nbsp;: «&nbsp;Gus m'appelle un jour, et me dit&nbsp;: &quot;Je suis en train de lire un script signé de Matt Damon, et d'un certain Ben Affleck, c'est ton frère&nbsp;? C'est vraiment pas mal, je vais le lire jusqu'au bout...&quot; En parallèle, Matt et mon frère voulaient absolument que je joue dans ce qui allait devenir <em>Will Hunting</em>. Mais à l'époque, j'avais quitté Los Angeles pour New York et je ne voulais plus faire de cinéma. Ils ont presque dû me menacer pour que je daigne les rejoindre...&nbsp;»</p><p>New York, c'est aussi l'un des points de chute de Gus Van Sant en 2002. Le hasard rapproche à nouveau le cinéaste et l'acteur, un hasard géographique qui donnera naissance à leur troisième collaboration, <em>Gerry</em>. Gus Van Sant&nbsp;: «&nbsp;Nous avons commencé à réfléchir au film simplement parce que Casey et moi étions voisins à New York. Et Matt Damon venait d'y emménager aussi, pour retaper un appartement. Ils avaient un vague projet, j'avais un peu d'argent, alors nous nous sommes réunis, et nous avons commencé à broder autour de ces deux personnages perdus dans le désert.&nbsp;»</p><p>En 2010, Casey Affleck et Joaquin Phoenix se retrouvent pour l'un des projets hollywoodiens les plus barrés de ces dix dernières années, <em>I'm Still Here</em>, mockumentary réalisé par le premier, mettant en scène le second. A la toute fin des remerciements, un nom. Gus Van Sant.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691353,
+        "desc": "Extrait de <em>SaltLake Van Sant</em> (Felix Andrew, 2001) ©&nbsp;Felix Andrew"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": 2,
+    "name": "Joaquin Phoenix",
+    "text": "<p>À six mois du tournage, face à son mur de polaroids réunissant le casting de <em>Prête à tout</em>, Gus Van Sant hésite. Qui pour jouer le jeune et naïf Jimmy Emmet&nbsp;? Il y a cette évidence, depuis le début. Joaquin Phoenix... Mais Van Sant peut-il raisonnablement engager le jeune acteur, qui n'a que trois petits rôles anecdotiques à son actif, alors que l'ombre sépulcrale de son frère River hante encore tous les esprits –&nbsp;et plus que tout autre, celui de Joaquin. «&nbsp;L'idée de travailler avec moi lui était douloureuse, je lui rappelais immanquablement son grand frère, ce qu'il essayait alors à juste titre d'éviter.&nbsp;»</p><p>Alors, un temps, la balance penche pour un jeune inconnu, Matt Damon, qui a fait très forte impression au casting. Mais il est un peu trop vieux pour le rôle, et un peu trop musculeux aux yeux du cinéaste, qui revient sans cesse à son idée initiale, plus fragile, plus incandescente. Joaquin Phoenix. Le cinéaste ne regrettera pas son choix, même si sur le plateau, Gus Van Sant découvre un acteur anxieux, très différent de son grand frère. «&nbsp;Il était à l'opposé de River. River savait s'il avait été bon ou pas, il était capable d'argumenter pour dire &quot;Non, non, c'est cette prise qui était la bonne&nbsp;!&quot; Joaquin, au contraire, était constamment dans le doute.&nbsp;» Le cinéaste redouble alors d'attention, et prend l'acteur sous son aile. Des années après, Joaquin lui en est toujours reconnaissant&nbsp;: «&nbsp;Certains réalisateurs peuvent être tyranniques, et c'est évidemment tout l'inverse de Gus. Toute forme d'autorité m'intimide, mais avec Gus vous avez l'impression de travailler avec un ami sur un film d'étudiant, et que rien de ce que vous ne faites ne saurait être faux, ou jugé.&nbsp;»</p><p>À la sortie du film, Joaquin fait forte impression, à tel point qu'il mettra quelques années à se débarrasser des oripeaux du redneck si brillamment incarné dans <em>Prête à tout</em>&nbsp;: «&nbsp;Quand James Gray m'a proposé le rôle de Leo dans <em>The Yards</em>, j'ai répondu que je voulais l'autre rôle, celui de Willie. Je voulais qu'on me laisse le personnage charismatique, pour enfin me libérer de la période post-<em>Prête à tout</em>, où je finissais par n'incarner que des losers.&nbsp;» Mais l'important n'est pas là, et l'acteur le reconnaîtra plus tard. Le film de Gus Van Sant lui a donné un prénom. Il n'est plus le frère de River, il est Joaquin Phoenix.</p><p>Les chemins du cinéaste et de l'acteur ne se croiseront plus par la suite, du moins plus sur les plateaux de cinéma. Mais Gus Van Sant et Joaquin Phoenix continuent à se fréquenter régulièrement. Et Casey Affleck n'est jamais loin... En 2011, germe dans l'esprit de Casey et Joaquin une ébauche de canular&nbsp;: ce dernier abandonnerait le métier d'acteur pour se lancer dans le hip-hop. L'idée les emballe. Quelques jours plus tard, ils invitent Gus Van Sant à dîner et lui annoncent, le plus sérieusement du monde, que Joaquin arrête tout. Van Sant, trop poli pour en rire, ne cherche pas à lui faire entendre raison. Le moment est terriblement gênant... Affleck et Phoenix jubilent&nbsp;: «&nbsp;Nous avons trouvé ce malaise hilarant. C'était irrésistible.&nbsp;»</p><p>L'anecdote, qui pourrait sembler cruelle, raconte paradoxalement quelque chose du lien qui unit le cinéaste aux deux acteurs, révélés devant sa caméra. Il fallait que tous deux se jouent de leur mentor pour vérifier la validité de leur projet, qui deviendra <em>I'm Still Here</em>, étonnant mockumentaire dans lequel Phoenix piétine consciencieusement sa carrière sous l'œil rigolard d'Affleck. Le film, souvent pris pour une vaste blague, est pourtant un objet singulier, que n'aurait pas renié le Gus Van Sant buissonnier de <em>Gerry</em> et <em>Last Days</em>. Dans le très beau dernier plan du film, Phoenix s'avance dans une forêt touffue, à moitié nu, puis plonge dans une rivière. Métaphore, un peu appuyée (l'expiation des pêchés dans une nature rédemptrice), la scène est aussi un écho assez évident aux scènes sylvestres de <em>Last Days</em>. Manière délicate pour Joaquin Phoenix, et Casey Affleck, de rendre hommage au cinéaste de leurs débuts. «&nbsp;I'm still here&nbsp;»&nbsp;? Oui, ils sont bien là, en effet. Et tous deux savent à qui le doivent.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691354,
+        "desc": "Extraits croisés de <em>Last Days</em> (Gus Van Sant, 2005) et <em>I'm Still Here</em> (Casey Affleck, 2010) "
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "name": "James Franco",
+    "text": "<p>Galerie Gagosian, Los Angeles. Derrière de longs rideaux oranges miteux, chaises de récup' et vieux sofas éventrés sont disséminées à travers la pièce. Sur le mur, aux moisissures apparentes, les images projetées de River Phoenix dans <em>My Own Private Idaho</em>. L'installation fait partie d'<em>Unfinished</em>, exposition créée en 2008 par James Franco et Gus Van Sant.</p><p>Tous les deux viennent de terminer le tournage d'<em>Harvey Milk</em>, dans lequel Franco tient le rôle de Scott Smith, jeune amant de Milk. Tourner avec Gus Van Sant, James Franco en rêvait. Il avait écrit au cinéaste, peu de temps auparavant, pour le supplier d'apparaître dans le film. Fan absolu du cinéaste de Portland, il a vu tous ses films. Son préféré&nbsp;: <em>My Own Private Idaho</em>, l'histoire de deux amis prostitués interprétés par Keanu Reeves et un jeune acteur qui le fascine, River Phoenix. Pendant le tournage de <em>Milk</em>, Van Sant lui montre les rushes du film qu'il a gardés précieusement. Franco a alors l'idée d'utiliser ces dizaines d'heures de chutes pour réaliser deux montages. Le premier, constitué de scènes inédites et intitulé <em>My Own Private River</em>, est un vibrant hommage au talentueux Phoenix, trop tôt disparu. Le deuxième, <em>Endless Idaho</em>, se présente comme un <em>making of</em> de luxe, long documentaire de douze heures réunissant images de repérages, répétitions des acteurs, prises alternatives et coulisses du film.</p><p>Dans la galerie de Beverly Hills, les deux films de Franco sont accompagnés de plusieurs aquarelles de Van Sant. Les jeunes hommes qui y sont représentés affichent un air grave, rêveur ou provocateur. Les portraits, issus de photographies d'inconnus trouvées sur Internet, semblent tout droit sortis de <em>My Own Private Idaho</em>.</p><p>En 2013, c'est encore un film de Gus Van Sant –&nbsp;<em>Psycho</em>, lui-même remake du film éponyme d'Hitchcock&nbsp;– qui inspire James Franco pour une nouvelle installation. Dans <em>Psycho Nacirema</em> (American à l'envers), il se met en scène grimé en Marion Crane dans un Bates Motel trash recréé dans une galerie de Londres. Mêlant œuvres peintes, photographies et performances, l'exposition est soutenue par l'artiste écossais Douglas Gordon, connu pour son installation <em>24h Psycho</em>, proposant une version ralentie du film d'Hitchcock.</p><p>Mais c'est sur internet que James Franco expose le plus souvent sa vie et son corps de jeune éphèbe. Qu'il soit acteur, réalisateur, scénariste, écrivain, peintre, performer, producteur ou compositeur, le touche-à-tout Franco enchaîne les projets en mode rafale. Il est partout et en particulier sur les réseaux sociaux qu'il inonde de selfies. Des portraits qui trouveraient toute leur place parmi les aquarelles de Van Sant ou sur les couvertures des magazines érotiques qui s'animent dans le rêve de Mike, le héros de <em>My Own Private Idaho</em>.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "6-1",
+        "desc": "James Franco et Gus Van Sant sur le tournage de <em>Harvey Milk</em> ©&nbsp;SND"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "name": "Michael Pitt",
+    "text": "<p>Si l'on associe généralement Michael Pitt et Gus Van Sant à <em>Last Days</em>, la plus mémorable de leurs collaborations, il faut en fait remonter cinq ans plus tôt pour trouver trace de leur première rencontre. Pitt n'est alors qu'une vague silhouette croisée dans <em>Studio 54</em> et dans une poignée d'épisodes de la série ado <em>Dawson's Creek</em>. C'est là que Gus Van Sant remarque son visage poupin. Il lui offre dans la foulée son premier rôle consistant, dans le mésestimé <em>À la rencontre de Forrester</em>. Puis le présente à John Cameron Mitchell et à Larry Clark. Impressionnés, le premier offrira à Pitt un beau personnage dans <em>Hedwig and the Angry Inch</em> et le second l'un des rôles principaux de <em>Bully</em>.</p><p>L'acteur le répète à longueur d'interviews&nbsp;: il doit énormément à son mentor. «&nbsp;J'ai rencontré Gus tôt dans ma carrière et il a joué un rôle-clé.&nbsp;» Leurs chemins se croisent et se recroisent au fil des années, sur et hors des plateaux&nbsp;: Michael Pitt rencontre ainsi le bassiste de son groupe, Pagoda, dans un squat de Portland où l'avait traîné le cinéaste –&nbsp;cinéaste qui viendra poser sa voix quelques mois plus tard sur un de ses morceaux, composé au bénéfice d'un album caritatif pour les sans-abris.</p><p>Mais c'est évidemment <em>Last Days</em> qui marque l'acmé de leur complicité. Sous ses atours de biopic fantasmé de Kurt Cobain, le film est aussi un portrait du jeune homme en artiste. Michael Pitt, animal, minéral, déambule dans les cadres au cordeau d'Harris Savides. Il est Blake, le pseudonyme fictionnel de Kurt Cobain. Il est Kurt Cobain, aussi, évidemment. Mais il est Michael Pitt, surtout, acteur funambule donnant libre cours à son art sous l'œil protecteur de Gus Van Sant. Un plan, entre cent autres&nbsp;: l'acteur, dans la pénombre de son manoir, interprétant, en un long plan séquence de plus de quatre minutes, <em>Death to Birth</em>, le morceau le plus célèbre de Pagoda. Les frontières entre vie et fiction n'existent plus&nbsp;: Michael Pitt, chanteur, Michael Pitt acteur, Blake et Kurt Cobain ne font plus qu'un. «&nbsp;Le film a été entièrement improvisé, en 17 jours. Il n'y avait pas de dialogue, et pas vraiment de script non plus. J'adore travailler comme ça, et c'est la première fois qu'on m'a laissé une telle marge de liberté... Certains réalisateurs ont un ego démesuré, et vont vous dire&nbsp;: &quot;Non, ne pose pas cette tasse ici, pose-la là&quot;. Gus c'est plutôt&nbsp;: &quot;Pose cette tasse où tu veux, Michael. N'importe où dans la pièce&quot;... C'est le plus grand, aujourd'hui&nbsp;; le meilleur cinéaste américain, celui qui prend le plus de risques.&nbsp;»</p><p>En 2015, Michael Pitt réalise l'un de ses rêves, et passe derrière la caméra, avec <em>The Driver</em>, court métrage <em>arty</em> le mettant en scène. À la fin du générique, dans les remerciements, bien au chaud entre Martin Scorsese et Jim Jarmusch, se détache le nom de celui qui le révéla au cinéma et à lui-même. Gus Van Sant.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691355,
+        "desc": "Extrait de <em>Last Days</em> (Gus Van Sant, 2005)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "name": "Keanu Reeves",
+    "text": "<p>1990.&nbsp;Alors qu'il s'apprête à tourner <em>My Own Private Idaho</em>, Keanu Reeves vient d'enchaîner deux immenses succès populaires, <em>Point Break</em> et <em>Les Aventures de Bill et Ted</em>. Francis Ford Coppola (<em>Dracula</em>) et Bernardo Bertolucci (<em>Little Buddha</em>) l'ont dans le viseur. <em>Speed</em> est en pré-production... Hollywood est à ses pieds. Mais de l'aveu même de l'acteur, cette notoriété soudaine l'effraie. Reeves veut respirer, comme s'il sentait qu'un tournage avec Gus Van Sant était l'assurance de sortir, peut-être une dernière fois, des sentiers battus.</p><p>Il faut se replacer dans le contexte. Le cinéaste n'a alors que deux films à son actif, sinon underground, du moins farouchement indépendants. Tourner avec Gus Van Sant est encore alors une prise de risque, même (surtout&nbsp;?) pour un jeune premier dont la voie, royale, semble toute tracée. Gus Van Sant en fait le constat lui-même, lucide&nbsp;: «&nbsp;<em>My Own Private Idaho</em> est à deux doigts d'être un film <em>mainstream</em>, commercial. Il n'en est vraiment pas loin. C'est tout de même loin d'être un film expérimental, ce qui montre bien combien Hollywood peut être coincé, conservateur et frileux dès lors qu'un projet ne ressemble pas à <em>Maman j'ai raté l'avion</em>. Je me contente de frôler les marges, et tout le monde pense que Keanu et River jouent avec le feu. Alors qu'ils s'ennuient juste ferme dans leur métier.&nbsp;»</p><p>Le tournage, intense mais idyllique, est aussi l'occasion pour le cinéaste de prouver à nouveau, deux ans après avoir tourné avec Matt Dillon, que son cinéma insoumis et non-conformiste pouvait parfaitement s'accommoder du star-system hollywoodien. D'une certaine manière, c'est Keanu Reeves qui a ouvert la voie à Uma Thurman, Nicole Kidman, Sean Connery ou encore Robin Williams qui se succéderont ensuite devant la caméra de Gus Van Sant.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "8-1",
+        "desc": "Portrait de Keanu Reeves ©&nbsp;Gus Van Sant"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "name": "Nicole Kidman",
+    "text": "<p>1994.&nbsp;Initialement pensé pour Meg Ryan, alors au sommet de la pyramide hollywoodienne, le rôle principal de <em>Prête à tout</em> revient finalement, à la surprise générale, à Nicole Kidman. Plus célèbre pour son récent mariage avec Tom Cruise que pour ses choix de carrière, l'actrice australienne n'a alors au compteur que quelques films <em>mainstream</em> mineurs (<em>Malice</em>, <em>Jours de tonnerre</em>, <em>Billy Bathgate</em>...).</p><p>Gus Van Sant n'a pourtant même pas eu à la rencontrer pour se faire un avis. C'est un simple coup de fil qui l'a convaincu&nbsp;: «&nbsp;Elle m'a expliqué que ce rôle était pour elle, que c'était son destin de tourner avec moi, qu'elle avait adoré <em>Drugstore Cowboy</em>. Ça m'a totalement décontenancé. Puis je me suis dit que si c'était vraiment ce qu'elle ressentait, alors elle redoublerait d'efforts pour me le prouver. Elle était tellement convaincue qu'elle était le meilleur choix que je me suis dit, allez, on y va&nbsp;!&nbsp;» C'est la première fois de sa carrière que le cinéaste caste un comédien sans même le rencontrer. Il ne le regrettera pas. Kidman non plus.</p><p>Avec <em>Prête à tout</em>, l'actrice fait sa révolution. Premier grand rôle de sa carrière, premier film d'auteur, première récompense (Golden Globe de la meilleure actrice), le film marque son entrée, fracassante, dans le gotha hollywoodien. Et si ce sont Jane Campion, Stanley Kubrick et Lars Von Trier qui l'auront ensuite dans le viseur, c'est bien à Gus Van Sant qu'il faut rendre aujourd'hui grâce de cette éclosion. Pour le cinéaste aussi, le film est un chambardement. Le voilà aux commandes de sa première comédie, armé d'un budget cinq fois plus conséquent que d'habitude –&nbsp;un paquebot qui le mènera à la fois à Cannes et sur les cimes du box-office.</p><p>«&nbsp;Quel est l'intérêt de faire quoi que ce soit si personne ne regarde&nbsp;?&nbsp;» serine Suzanne, l'héroïne de <em>Prête à tout</em>. Le fait est que désormais, tout le monde regarde&nbsp;: carton international, le film installe définitivement son auteur et son actrice dans le paysage. Leurs chemins ne se croiseront d'ailleurs plus, malgré un tournage idyllique. Mais dans l'ADN de leurs carrières respectives, le timbre cristallin de Suzanne résonne encore, comme le début d'une nouvelle ère.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "9-1",
+        "desc": "Portrait de Nicole Kidman ©&nbsp;Gus Van Sant"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "name": "Robin Williams",
+    "text": "<p>Ça commence par un rendez-vous manqué. Au début des années 90, Robin Williams s'est déjà fait un nom à Hollywood grâce notamment à ses deux derniers succès&nbsp;: <em>Good Morning Vietnam</em> et <em>Le Cercle des poètes disparus</em>. Sollicité par Oliver Stone qui projette d'adapter l'histoire du Maire de Castro, premier militant homosexuel assassiné, l'acteur se voit confier le rôle principal. Stone propose également à Gus Van Sant d'en assurer la réalisation, le jugeant plus à même de traiter un sujet aussi sensible. Or le scénario ne convient pas tout à fait à Van Sant qui décide de le réécrire. Mais, toujours bancal, le projet s'éternise et Robin Williams n'interprétera finalement jamais Harvey Milk.</p><p>Si Robin Williams et Gus Van Sant finissent par tourner ensemble, c'est en partie grâce à Matt Damon et Ben Affleck. Les deux amis qui débutent à Hollywood ont peu de propositions. Ils décident d'écrire eux-mêmes le scénario qu'ils rêveraient de recevoir en tant qu'acteurs&nbsp;: <em>Will Hunting</em>. Mais pour donner de la crédibilité au projet, il leur faut une tête d'affiche. Pour Matt Damon, il suffit d'adopter la stratégie du casting&nbsp;: «&nbsp;Si vous engagez un second rôle doté du même rayonnement mondial que Robin Williams, ça peut suffire à trouver un financement correct même si l'acteur principal est inconnu. Ben et moi avons eu cette idée en regardant <em>Reservoir Dogs</em>. Comme nous, Tarantino sortait de nulle part. C'est l'un de ses acteurs phares, Harvey Keitel, qui a permis au film de se faire. On a reproduit ce principe dès l'écriture de <em>Will Hunting</em>. Au point qu'on appelait le personnage de Robin Williams &quot;le rôle à la Harvey Keitel&quot;.&nbsp;»</p><p>C'est donc Robin Williams qui sert de caution pour ce scénario que le tout Hollywood s'arrache désormais. Pour la réalisation, Mel Gibson, Michael Mann et Steven Soderbergh sont pressentis. Finalement, Affleck et Damon portent leur choix sur Gus Van Sant dont ils ont beaucoup aimé le <em>Drugstore Cowboy</em>.</p><p>Van Sant reste très discret envers Robin Williams. Sur le plateau, il le dirige peu, l'acteur est tout de suite dans le ton. Il improvise, amuse ses partenaires et les surprend souvent. Sa prestation en psy persévérant lui vaut l'Oscar du meilleur second rôle, le seul de sa carrière. Quant à Gus Van Sant, il reçoit sa première nomination à l'Oscar du meilleur réalisateur, confirmant, après <em>Prête à tout</em>, son passage au cinéma «&nbsp;grand public&nbsp;». Et si certains lui reprochent de se corrompre en ayant accepté de réaliser <em>Will Hunting</em>, Van Sant répond&nbsp;: «&nbsp;Ok, je viens de rentrer dans le <em>mainstream</em>, et pourquoi pas&nbsp;? Mais on peut aussi voir les choses autrement&nbsp;: je n'avais jamais fait ce genre de film auparavant et je me demandais en fait si j'en étais capable. Est-ce que j'allais me perdre en tant que réalisateur si mes personnages étaient moins à la marge&nbsp;?&nbsp;»</p><p>Mais pour les deux jeunes scénaristes, le succès n'est pas un souci. Et Robin Williams leur a permis d'accéder au rêve. «&nbsp;Ben Affleck et moi lui devons absolument tout. Il a accepté de faire notre film et porté le projet jusqu'au bout. Je ne pourrais jamais assez le remercier. Quand je regarde la vie que j'ai aujourd'hui, à quel point je suis béni, je sais que rien de tout ça n'aurait pu arriver sans l'aide de Robin.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164977061,
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "name": "Sean Penn",
+    "text": "<p><em>Harvey Milk</em>. Le projet initial remonte au début des années 90. Gus Van Sant commence à s'y intéresser lorsqu'il apprend qu'Oliver Stone renonce à adapter la biographie écrite par Randy Shilts, <em>The Mayor of Castro Street</em>. Il travaille pendant un an sur cette histoire qui lui tient à cœur&nbsp;: l'épopée politique et l'assassinat du premier militant homosexuel, élu en 1977 à San Francisco, face à un sénateur républicain défendant une loi homophobe, connue sous le nom de Proposition 6. Robin Williams est prêt à interpréter le leader charismatique de Castro, les producteurs sont emballés. Mais Van Sant n'est pas satisfait du scénario et le projet est encore une fois abandonné. Dix-sept ans plus tard, il décide de reprendre l'idée en découvrant le scénario d'un jeune inconnu de 34 ans. «&nbsp;Ma rencontre avec Dustin Lance Black a été déterminante. Il a longuement enquêté sur Harvey Milk, rencontré ses amis encore en vie. Il a bâti un script efficace et intelligent qui renvoie à une époque et un contexte précis, mais montre aussi combien le combat d'Harvey a toujours un sens aujourd'hui.&nbsp;»</p><p>Tout va ensuite très vite, mais il reste encore à trouver l'acteur qui réussira à incarner Milk et qui finira de convaincre les financiers. Sean Penn est en haut de la liste. Connu pour ses prises de positions politiques qu'il sait très bien exprimer en public, il possède pour Gus Van Sant «&nbsp;le talent indispensable pour incarner un personnage dont les qualités d'orateur étaient exceptionnelles.&nbsp;» Sean Penn vient de réaliser son cinquième film, <em>Into the Wild</em>, road-movie et quête existentielle d'un jeune homme retiré en pleine nature. Le rôle révèle au grand public le jeune acteur Emile Hirsch, que Gus Van Sant retiendra pour interpréter Cleve Jones, proche de Milk et conseiller principal sur le film.</p><p>Sean Penn, qui aime de moins en moins faire l'acteur, accepte évidemment de tourner avec Gus Van Sant qu'il admire depuis longtemps. «&nbsp;Gus est un réalisateur unique dans le cinéma américain d'aujourd'hui, dans la mesure où, un peu à la manière d'Hal Ashby autrefois, il adapte son style à chaque film. Il est tellement éclectique. Tous les acteurs veulent travailler avec Gus. Quand il m'a donné le scénario de Lance, que j'ai trouvé extraordinaire, c'était une évidence. Un scénario merveilleusement bien écrit avec l'un des plus grands réalisateurs&nbsp;!&nbsp;»</p><p>Van Sant, Penn, Lance Black, l'équation parfaite. Lorsque le film sort en 2008, la presse est unanime. Sean Penn campe un Harvey Milk plus vrai que nature, lui apportant intensité et subtilité jusque dans les moindres détails. Penn reçoit son deuxième Oscar. Lance Black celui du meilleur scénario. Et pour Van Sant&nbsp;: «&nbsp;Le succès commercial du film aux États-Unis est une belle récompense. Pour nous, l'essentiel est que ce film soit vu par le grand public et que les spectateurs comprennent que le combat de Milk est toujours contemporain.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "11-1",
+        "desc": "Gus Van Sant et Sean Penn sur le tournage de <em>Harvey Milk</em> ©&nbsp;SND"
+      },
+      {
+        "type": "img",
+        "id": "11-2",
+        "desc": "Gus Van Sant, Josh Brolin et Sean Penn sur le tournage de <em>Harvey Milk</em> ©&nbsp;SND"
+      },
+      {
+        "type": "img",
+        "id": "11-3",
+        "desc": "Sean Penn et Gus Van Sant sur le tournage de <em>Harvey Milk</em> ©&nbsp;SND"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "name": "Matt Dillon",
+    "text": "<p>Après <em>Mala Noche</em>, premier long métrage indépendant à petit budget, <em>Drugstore Cowboy</em> marque, en 1989, la première incursion de Gus Van Sant dans le cinéma hollywoodien. Le jeune cinéaste fait appel à Matt Dillon, propulsé au rang de star, sept ans auparavant, grâce à deux films de Coppola tournés la même année, <em>Outsiders</em> et <em>Rusty James</em>. Ces films, Van Sant les a vus et en retient les personnages d'adolescents en souffrance, sujet qui le fascine depuis toujours. Dans <em>Drugstore Cowboys</em>, les adolescents sont devenus de jeunes adultes, couples de junkies, braqueurs de pharmacies, dont Matt Dillon incarne le chef de bande.</p><p>L'acteur, à l'image du jeune voyou au cœur tendre, n'est pas le premier choix de Van Sant. Pour le rôle de Bob, héros du roman de James Fogle, ancien dealer, dont le film s'inspire, il imaginait un tout autre profil&nbsp;: «&nbsp;Quand j'ai commencé à préparer le film, j'ai d'abord pris contact avec Tom Waits qui ressemblait d'avantage au personnage. Matt Dillon en était une version plus jeune. Tom pouvait rouspéter contre ces gamins plus jeunes que lui, alors que Matt avait encore l'air d'un gamin.&nbsp;» Tom Waits n'étant pas disponible, on évoque alors quelques noms comme Nicholson, Matthew Modine, mais c'est finalement le jeune Dillon qui s'impose. Et ça tombe plutôt bien, car l'acteur se trouve à ce moment-là dans le creux de la vague, quelque peu devancé par les jeunes stars montantes Tom Cruise, Rob Lowe, Emilio Estevez et Patrick Swayze. Le film de Van Sant permet à Dillon de retrouver le devant de la scène avec, pour ne rien gâcher, un projet qui l'emballe&nbsp;: «&nbsp;Un scénario humain, intègre, le contraire d'un récit caricatural. On a délibérément refusé de forcer sur les effets ou de tomber dans les clichés. C'est l'atout majeur de ce film&nbsp;: il innove.&nbsp;» L'ancien élève de l'Actors Studio, en parfait camé, s'investit à fond dans le réalisme, jusqu'à se piquer les veines à l'eau distillée pour faire plus vrai. Autre cadeau&nbsp;: Gus Van Sant lui permet de donner la réplique à William Burroughs, icône de la contre-culture, à qui il porte une grande affection, tout comme celle de son personnage à l'égard du Père Tom.</p><p>Bien que sorti en pleine hystérie anti-drogue de l'Amérique des années 80, <em>Drugstore Cowboy</em> est très bien accueilli. Matt Dillon et sa partenaire Kelly Lynch reçoivent les louanges des critiques. Et Gus Van Sant obtient, avec son deuxième film, la reconnaissance du grand public.</p><p>Six ans plus tard, Van Sant fait de nouveau appel à Dillon pour jouer dans <em>Prête à tout</em>. Il sera le mari sympathique de la diabolique Suzanne&nbsp;/&nbsp;Nicole Kidman. Le beau gosse s'est rangé, a pris quelques poignées d'amour, un peu trop ordinaire pour l'épouse prête à tout pour réussir. <br>Pas assez voyou et trop cœur tendre.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691357,
+        "desc": "Extrait de <em>The Making Of Drugstore Cowboy</em> (John Campbell, 1999) "
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "name": "William S. Burroughs",
+    "text": "<p>Gus Van Sant fait la connaissance de William S. Burroughs en 1975, à New York, où il se rend pour lui demander l'autorisation d'adapter l'une de ses nouvelles, <em>The Discipline of DE</em>. L'écrivain accepte et la rencontre marque le début d'une relation artistique qui perdure jusqu'à la mort de Burroughs. <em>The Discipline of DE</em>, ou <em>Do Easy</em>, nous enseigne une philosophie de vie qui consiste à faire les choses les plus simples, de la façon la plus détendue mais aussi la plus rapide et la plus efficace possible. Le film fait partie d'une série de courts métrages filmés en noir et blanc, en 16 mm ou Super 8, souvent humoristiques, que Van Sant tourne entre la fin de ses études à la Rhode Island School of Design et la réalisation de <em>Mala Noche</em>, son premier long métrage.</p><p>Burroughs et Van Sant se retrouvent régulièrement autour de projets d'albums, enregistrés pour un label de Portland, ou de courts métrages qui sont autant d'occasions de faire coexister les textes de Burroughs et la musique de divers artistes comme John Cale ou Sonic Youth. Avec <em>The «&nbsp;Priest&nbsp;» They Called Him</em>, album sorti en 1993, Van Sant rapproche même l'auteur du <em>Festin nu</em> du leader de Nirvana, Kurt Cobain. Dans <em>A Thanksgiving Prayer</em>, il filme Burroughs récitant son poème du même titre, sorte de liste de remerciements amers et ironiques, exprimant une virulente critique contre les États-Unis. Le court métrage est présenté au festival de Sundance en 1992.</p><p>Mais c'est certainement en adaptant le roman de James Fogle, pour son deuxième long métrage, que Gus Van Sant permet à Burroughs de livrer sa plus belle prestation. Dans <em>Drugstore Cowboy</em>, il lui propose d'incarner Tom, ancien toxicomane qui vit dans une maison spécialisée, où le héros Bob, interprété par Matt Dillon, est censé le rencontrer. Burroughs est intéressé par le scénario, mais trouve que son personnage, trop pathétique, manque d'épaisseur. «&nbsp;Burroughs me dit qu'il pouvait étoffer un peu le personnage. C'est ainsi qu'il a eu l'idée d'en faire un prêtre, sachant que c'était le genre de personnage qu'il connaissait bien pour en avoir créé de toutes pièces dans beaucoup de ses livres. Aidé de James Grauerholz, son assistant, il a réécrit les dialogues dans ce sens, avec beaucoup de ferveur et d'excitation. Au final, la plupart des dialogues du personnage de Burroughs dans le film n'ont rien à voir avec ceux de Fogle. C'est très proche de Burroughs lui-même, de ses romans, de sa philosophie. Burroughs n'est venu qu'un jour sur le tournage, à Portland. Il tenait à concentrer sa participation sur quelques heures seulement, à condenser son énergie. La plupart des scènes ont été tournées dans un parc, à deux pas du Portland Museum of Art, en centre-ville.&nbsp;» Un rôle clin d'œil pour l'écrivain fasciné par les gangsters et les camés, qui confie à Bob à la fin du film : «&nbsp;J'ai plusieurs millions de dollars dans les veines.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691363,
+        "desc": "Gus Van Sant à la Cinémathèque française parle de William S. Burroughs"
+      },
+      {
+        "type": "video",
+        "id": 163691371,
+        "desc": "Extrait de <em>The Making Of Drugstore Cowboy</em> (John Campbell, 1999)"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "name": "Allen Ginsberg",
+    "text": "<p>«&nbsp;In the memory of Allen Ginsberg and William Burroughs&nbsp;». La dédicace figure à la fin du générique de <em>Will Hunting</em>, sorti fin 1997, année qui voit disparaître ces deux figures emblématiques de la contre-culture américaine.</p><p>Un an plus tôt, Allen Ginsberg, devant la caméra de Gus Van Sant, un chapeau de l'Oncle Sam sur la tête, scande l'un de ses derniers poèmes, <em>The Ballads of the Skeletons</em>, véritable brûlot contre la société de son pays. Sur fond d'images d'archives, la musique de Philip Glass et de Paul McCartney accompagne le texte de Ginsberg, qui devient l'un des plus vieux artistes à tourner en boucle sur MTV.</p><p>En 2010, Gus Van Sant coproduit un biopic sur Allen Ginsberg. James Franco y interprète le rôle du poète poursuivi en justice pour avoir publié <em>Howl</em>, poème considéré alors comme obscène. L'œuvre, parue en 1956, évoque la liberté sexuelle et les paradis artificiels, critique la politique américaine, avec des mots fort inconvenants pour l'époque. Ginsberg fait sensation en déclamant pour la première fois son texte subversif dans une galerie de San Francisco, devant un auditoire enivré par les scansions du poète et le vin servi par le complice Jack Kerouac.</p><p>Jack Kerouac, Gus Van Sant l'a aussi dans la tête depuis longtemps. Il pense adapter <em>Sur la route</em> après <em>My Own Private Idaho</em> et <em>Even Cowgirls Get the Blues</em>. Le projet est lancé par Coppola, qui détient les droits de l'œuvre, et Barry Gifford qui écrit le scénario. Ce dernier est très enthousiaste&nbsp;: «&nbsp;Gus possède la sensibilité qu'il faut pour relever ce défi. Quand j'écrivais, je rêvais à des acteurs. Notamment à ceux des films de Van Sant. Je voyais un Sal Paradise qui ressemblait à Matt Dillon (<em>Drugstore Cowboy</em>), un Dean Moriarty avec les traits de River Phoenix (<em>My Own Private Idaho</em>). Mais là je sais que cela ne se fera pas.&nbsp;» Non, même sans Phoenix, le projet est abandonné et Gus Van Sant ne racontera finalement pas l'histoire de Paradise, Moriarty et Carlo Marx, le double d'Allen Ginsberg.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691376,
+        "desc": "Clip de <em>Ballad Of The Skeletons</em> de Allen Ginsberg avec Paul McCartney, Philipp Glass et Lenny Kaye (Gus Van Sant, 1996)"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "name": "Walt Curtis",
+    "text": "<p>Portland, 1977. Gus Van Sant s'occupe du son sur <em>Property</em>, premier long métrage de Penny Allen. Le film décrit un groupe d'habitants, artistes, excentriques et marginaux, qui tentent de racheter les terrains de leur quartier voué à la démolition. Parmi eux, une figure locale au tempérament bien trempé, Walt Curtis. «&nbsp;Qui est Walt&nbsp;?&nbsp;» demande un jour Gus Van Sant. Pour toute réponse, Penny Allen lui tend un livre. «&nbsp;Tiens, lis ça.&nbsp;» Gus Van Sant lit le récit autobiographique du poète underground de Portland. Quatre ans plus tard, il adapte <em>Mala Noche</em>, son premier long métrage.</p><p>«&nbsp;Si je me suis attaché à ce projet, c'est parce que <em>Mala Noche</em> prodiguait une connaissance d'initié, précise et néanmoins divagante, de la vie dans les rues d'un quartier défavorisé de Portland, qui chaque été se transformait en ce que Walt appelait Little Mexico. L'écriture de Walt était complètement dépouillée, jusqu'à ne livrer que les éléments visuels les plus nus. Des observations en noir et blanc sur la place peu enviable du Mexicain aux États-Unis, sa situation de hors-la-loi ou ses tentatives de gagner sa vie tant bien que mal, en travaillant dans les fermes comme cueilleur de fruits et légumes.&nbsp;»</p><p>Dans <em>Mala Noche</em>, Walt Curtis raconte son histoire intime, celle d'un jeune homosexuel qui tient une épicerie dans les quartiers pauvres de Portland&nbsp;: «&nbsp;Une poignée d'adolescents vibrants et fougueux, pareils à des rayons de soleil, se hasardaient parfois dans l'épicerie grecque. Leur esprit de jeunesse et leur indifférence au morne décor de ghetto qui les environnait captivèrent mon cœur...&nbsp;» Un jour, Walt fait la rencontre de Johnny, jeune clandestin mexicain, dont il tombe amoureux. Cette aventure le mène dans les bas-fonds du Portland des années 70. De ce récit cru qui parle d'amour, de désir et de sexe, Allen Ginsberg écrira&nbsp;: «&nbsp;La vie est décevante, les gamins tragiques, il y a des moments de joie et de jouissance dans des sacs de couchage souillés, et des moments d'amertume quand les flics de l'Immigration interrompent les relations intimes nouées sur la route. Ceux qui n'ont pas un amour pour la vie y reconnaîtront leurs espoirs et leurs déchirements.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691377,
+        "desc": "<em>Two minutes with Walt Curtis</em> ,"
+      },
+      {
+        "type": "img",
+        "id": "15-2",
+        "desc": "Couverture de <em>Mala Noche</em> de Walt Curtis, 1977 ©&nbsp;Out of the Ashes Press Publication"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "name": "Ken Kesey",
+    "text": "<p>15 janvier 1966, Portland. Les Merry Pranksters font étape dans l'Oregon. Ken Kesey et sa joyeuse bande post-beatnik se préparent pour leur sixième soirée d'Acid Test. «&nbsp;Celle-ci était vraiment réussie. On était devenus des vrais champions du terrorisme. On pouvait arriver quelque part, foutre le bazar et repartir sans que personne ne s'en soit aperçu. Cette fois-là, un type, un businessman, a débarqué, il a payé son dollar et pris sa dose d'acide. Il portait un costume et un parapluie. À cette époque, c'était encore assez confidentiel pour qu'une personne puisse devenir le centre d'attraction. Il était là en train de danser, quand quelqu'un l'a éclairé avec un projecteur. &quot;The King Walks&nbsp;!&quot; a-t-il lancé. Alors il a commencé à marcher avec son parapluie et à jouer avec son ombre.&nbsp;» Et au milieu de la troupe euphorique, pendant que chacun trippe sur fond d'amphétamines, LSD et marijuana, un jeune groupe de rock psychédélique fait ses débuts&nbsp;: le Grateful Dead.</p><p>Ken Kesey découvre les effets du LSD et autres hallucinogènes en tant que cobaye pour un programme dans un hôpital d'anciens combattants. Expérience qui sera la source d'inspiration de son premier roman, <em>Vol au-dessus d'un nid de coucou</em>, écrit en 1962. C'est là qu'il fait la connaissance de l'un de ses héros, l'ancien compagnon de route de Jack Kerouac, Neal Cassady. La route, ils la prendront ensemble en 1964, mais dans l'autre sens, de Los Angeles à New York, à bord de l'autobus des Merry Pranksters, un vieux bus scolaire repeint à la Day-Glo et chargé de LSD. Kesey se souvient de Cassady&nbsp;: «&nbsp;Il était au volant de notre bus, au sens littéral comme au figuré, et il le conduisait de la même manière que Charlie Parker jouait du saxophone. Sa conduite était telle un monologue sans fin qu'il improvisait sur ce qu'il voyait et pensait. Il récitait de longs passages de Proust –&nbsp;son héros littéraire&nbsp;– et de Melville, qu'il connaissait par cœur, et reliait ses révélations à des passages de la Bible. Pour nous tous qui avions pris le chemin de la décadence, Cassady était un héros, le héros qui nous faisait avancer.&nbsp;»</p><p>Au début des années 80, Gus Van Sant rencontre plusieurs fois Ken Kesey. Fasciné par son voyage sous acide, dont il subsiste quelques heures de rushes sous forme d'un documentaire intitulé <em>Magic Trip</em>, Van Sant rêve de l'adapter au cinéma. Avec l'aide de Dustin Lance Black, scénariste d'<em>Harvey Milk</em>, il commence à imaginer un scénario, <em>The Electric Kool-Aid Acid Test</em>, d'après le roman éponyme de Tom Wolfe, qui fit lui aussi partie de l'aventure. Gus Van Sant songe à Heath Ledger pour le rôle de Ken Kesey. Mais s'attaquer à une telle œuvre s'avère plus difficile que prévu. Et entre temps, Heath Ledger disparaît. Les ébauches se succèdent et rien n'aboutit.</p><p>Du projet conservé au fond d'un tiroir, il ne reste que les photos de Kesey, prises par Van Sant, et celles du vieux bus, plus vraiment fluo et rouillé par le temps. Mais aussi cette dédicace au générique de <em>Gerry</em>&nbsp;: «&nbsp;En mémoire de Ken Kesey&nbsp;».</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "16-1",
+        "desc": "Photogramme de <em>Magic Trip</em>, documentaire de Ken Kensey sur le Further Bus des Magic Pranksters"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "name": "Stanley Kubrick",
+    "text": "<p>«&nbsp;Je t'aime bien Lloyd, tu as toujours été le meilleur. Le meilleur barman, de Tombouctou à Portland, Maine... Portland, Oregon pour être exact.&nbsp;» Cette réplique de Jack Nicholson dans <em>Shining</em> pourrait être le clin d'œil inversé de Kubrick pour Gus Van Sant. Car le cinéaste de Portland, qui n'a jamais caché son admiration pour le réalisateur d'<em>Orange mécanique</em>, le considère comme un modèle. Les allusions à l'univers de Kubrick sont manifestes et assumées, notamment dans <em>Elephant</em>, pour évoquer la violence et l'enfermement.</p><p>Une caméra très mobile qui suit les déambulations des personnages dans les longs couloirs du lycée d'<em>Elephant</em>, de l'hôtel Overlook ou du labyrinthe de <em>Shining</em>, constitue le parallèle le plus évident. Mais les références de Gus Van Sant à l'œuvre de Kubrick ne s'arrêtent pas là. En plus de porter le même nom, l'Alex d&quot;<em>Elephant</em> a la même obsession pour Beethoven, avant sa folie meurtrière, que l'Alex d'<em>Orange mécanique</em>, avant un acte de violence.</p><p>«&nbsp;Eeny, meeny, miny, moe / Catch a tiger by the toe / If he hollers let him go.&nbsp;» La comptine que récite Alex avant d'abattre les amoureux d'<em>Elephant</em>, Nathan et Carrie, dans la chambre froide, fait écho à la fable des trois petits cochons récitée par Nicholson, la hache à la main, devant la porte de la salle de bain de <em>Shining</em> où se cache Wendy. C'est aussi une comptine, <em>The Mickey Mouse March</em>, que les soldats de <em>Full Metal Jacket</em> entonnent sur les champs de bataille du Vietnam.</p><p>L'Alex d'<em>Elephant</em>, encore lui, fredonne dans les couloirs du lycée, tout comme Jack fredonne dans les couloirs de l'hôtel. Le premier termine son parcours dans la chambre froide et le deuxième est enfermé dans le cellier, près de la chambre froide.</p><p>Benny, le lycéen noir d'<em>Elephant</em>, potentiel sauveur du drame, est le double du cuisinier noir Halloran de <em>Shining</em> qui, alerté par une vision, retourne à l'hôtel pour porter secours à Wendy et son fils. Ils ne sauveront personne, puisqu'ils finissent, l'un et l'autre, par être tués.</p><p>Notons, enfin, l'ambiance sonore électroacoustique d'<em>Elephant</em>, également présente dans <em>Last Days</em> et <em>Paranoid Park</em>, qui n'est pas sans rappeler la partition électronique de la scène d'ouverture de <em>Shining</em>, ou celle de Beethoven, retravaillée au synthétiseur par Wendy Carlos, dans <em>Orange mécanique</em>. La représentation des perceptions sensorielles déviantes des personnages de Van Sant et Kubrick n'en est que plus intensifiée.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691383,
+        "desc": "Extraits croisés d'<em>Elephant</em> (Gus Van Sant, 2003) et <em>Shining</em> (Stanley Kubrick, 1980)"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "name": "Béla Tarr",
+    "text": "<p>Plan-séquence. Deux hommes marchent côte à côte. Gros plans sur leurs visages de profil. On entend le bruit que font leurs pas sur le sol. Le plan dure près de trois minutes. Nous sommes dans <em>Les Harmonies Werckmeister</em> de Béla Tarr. <br>Dans <em>Gerry</em>, même plan, deux visages qui montent et qui descendent. On suit le rythme saccadé de leur marche. Même cadence hypnotique. Le plan dure près de quatre minutes.</p><p>En 2002, Gus Van Sant tourne le dos à l'industrie hollywoodienne pour revenir vers un cinéma minimaliste, voire expérimental, empruntant notamment à l'esthétique de Béla Tarr, dont l'œuvre le marque profondément. «&nbsp;Les œuvres de Béla ont une démarche organique et contemplative plutôt que tronquée et contemporaine. Elles s'avèrent contempler la vie d'une manière qu'il est presque impossible de retrouver dans un film moderne ordinaire. Elles sont tellement plus proches des vrais rythmes de la vie qu'il nous semble assister à la naissance d'un nouveau cinéma. Béla Tarr est l'un des rares cinéastes réellement visionnaires.&nbsp;» écrit-il, en octobre 2001, à l'occasion d'une rétrospective du cinéaste hongrois au musée d'Art moderne de New-York.</p><p>Lorsque Gus Van Sant, en pleine préparation de <em>Gerry</em>, demande à son chef-opérateur Harris Savides, «&nbsp;quelque chose de simple mais de complètement nouveau&nbsp;», il lui montre les films de Béla Tarr en insistant sur leur structure, leur mise en scène et sur «&nbsp;la façon dont la caméra laisse les personnages tout faire, invite le spectateur plutôt que tout lui imposer à force de coupes. C'était très important pour nous que le film soit linéaire, élégant. Nous nous en sommes donc tenus à des mouvements de caméra simples et fluides. De gauche à droite, de l'intérieur à l'extérieur, c'est tout.&nbsp;»</p><p>Ainsi, la marche interminable des deux Gerry, entre le ciel et la terre desséchée d'un désert infini, est semblable aux longues marches des personnages des films de Béla Tarr, avançant dans une nature hostile et s'enlisant toujours un peu plus dans des paysages dévastés. De même que la musique planante d'Arvo Pärt, dans <em>Gerry</em>, a le même effet hypnotique sur le spectateur que la musique, aux rythmiques répétitives, de Mihály Vig, compositeur attitré de Béla Tarr, dans <em>Les Harmonies Werckmeister</em>.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691391,
+        "desc": "Extraits croisés de <em>Les Harmonies Werckmeister</em> (Béla Tarr, 2000) et <em>Gerry</em> (Gus Van Sant, 2003)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "name": "Jonas Mekas",
+    "text": "<p>«&nbsp;Je voulais que mes films soient montrés dans des cinémas, pas dans des galeries fréquentées par des esthètes. Mon but principal a toujours été de raconter des histoires. Je voulais exercer une influence sur le cinéma commercial, en lui apportant certains de mes côtés expérimentaux. C'est encore ce que j'essaie de faire aujourd'hui.&nbsp;»</p><p>Si Gus Van Sant mentionne souvent Jonas Mekas –&nbsp;et les frères Kuchar, Stan Brakhage, Gregory Markopoulos ou Ron Rice&nbsp;– comme influence(s) notoire(s), c'est aussi, paradoxalement, pour mieux s'en démarquer aujourd'hui. La scène underground fait pourtant bel et bien partie intégrante de l'apprentissage du jeune Gus Van Sant, qui étudie à 250 petits kilomètres de l'effervescente New York. Le cinéaste ne renie pas cette période. Il est même biberonné à l'expérimentation, qui constitue son premier terrain de jeu&nbsp;: «&nbsp;J'ai commencé à faire des films assez jeune tout en apprenant la peinture à la Rhode Island School of Design. Je me suis retrouvé dans le département cinéma de l'école avec un groupe d'étudiants qui faisaient des films en 8&nbsp;mm. Dès 16 ans, j'ai acheté une caméra et j'ai commencé à réaliser des films expérimentaux. À l'époque, dans les années 60, j'étais très influencé par Jonas Mekas et la scène underground new-yorkaise. &nbsp;»</p><p>Mais, avant même de quitter la School of Design, les projets du cinéaste retrouvent rapidement des modulations plus classiques. Gus Van Sant veut aller à Hollywood, et il veut y aller pour s'y fondre, pas pour s'y confronter&nbsp;: «&nbsp;On n'y va pas quand on est contre Hollywood. J'y suis allé à 21 ans, en pensant peut-être apporter quelque chose de nouveau, introduire des changements stylistiques. C'est naturel quand on est jeune...&nbsp;» Gus Van Sant n'est pas un frondeur, et il est moins radical que Mekas. On pourrait même déceler, dans certaines de ses interviews, comme une forme de renoncement&nbsp;: «&nbsp;J'ai appris le cinéma avec les cinéastes expérimentaux des années 60, et ces types ne jouaient aucun jeu, pas même celui du cinéma moderne. Ils étaient <em>arty</em> au-delà de tout. J'ai fait des choses inspirées par cela, et puis j'ai appris à jouer le jeu du cinéma populaire américain et international.&nbsp;»</p><p>Et pourtant, quelque chose des films-poèmes de Jonas Mekas persiste dans le cinéma de Gus Van Sant. Il y a l'évidence. Les accointances avec la Beat Generation&nbsp;; le Velvet Underground, croisé chez l'un (<em>Scenes from the Life of Andy Warhol&nbsp;: Friendships and Intersections</em>) et chez l'autre (<em>Last Days</em>)&nbsp;; le goût partagé pour les marges, pour Jean Genet... Mais il y a, aussi, de manière plus diffuse, par petites touches, une certaine forme de liberté et d'affranchissement des règles du jeu hollywoodien. <em>Gerry</em>. <em>Last Days</em>. Ou la lointaine réminiscence d'un cinéma, celui de Mekas, d'abord admiré, puis abjuré, puis assimilé.</p><p>Ou, pour le dire autrement&nbsp;: accepté.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "20-1",
+        "desc": "Jonas Mekas ©&nbsp;Furio Detti"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": 2,
+    "name": "Chantal Akerman",
+    "text": "<p>Dans <em>La Chambre</em> de Chantal Akerman, la caméra, posée au centre de la pièce, balaye lentement la scène en une suite de longs panoramiques, révélant à chaque passage les détails de la chambre et les gestes de la cinéaste étendue sur son lit. Le film de onze minutes, tourné en 1972, est un hommage à Michael Snow, qu'elle découvre avec le cinéma expérimental américain (Jonas Mekas, Andy Warhol) en arrivant à New York. L'année précédente, pour son film <em>La Région centrale</em>, Snow avait planté une caméra au sommet d'une montagne en plein désert canadien, explorant pendant cinq jours, par de longs panoramiques, l'espace désolé qui l'entourait, sans aucune trace humaine –&nbsp;images qui rappellent les longs plans séquences dans le désert de <em>Gerry</em>.</p><p>Gus Van Sant est très marqué par plusieurs films de Chantal Akerman qu'il voit pendant ses études d'art. Mais celui qu'il revoit et revoit encore, c'est <em>Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles</em>. «&nbsp;<em>Jeanne Dielman</em> est un chef-d'œuvre absolu. Chantal réussit à raconter une histoire dans un geste stylistique, rigoureusement passionné, brûlant dans son épure, qui n'existait pas avant elle. Son film hante mon œuvre. Elle réussit à nous faire croire qu'elle joue avec le temps réel en tournant une longue scène dans son entièreté. Après la vision, on comprend que ce n'est pas le temps réel, mais le temps habité, allongé par une magie artistique. Plus réel que le réel. Et ainsi, nous explique le monde, nous émeut. Elle porte ses héros dans l'atmosphère de leur incandescence. J'ai dû attendre de pouvoir tourner <em>Gerry</em> pour appliquer, un peu, ce que j'ai appris d'Akerman.&nbsp;»</p><p><em>Jeanne Dielman</em> décrit le quotidien routinier d'une femme célibataire, se concentrant sur ses rituels domestiques, deux jours durant, jusqu'à l'avènement d'un geste funeste. De la même manière, les lycéens d'<em>Elephant</em> reproduisent les allées et venues vers leurs occupations habituelles, jusqu'à l'événement tragique. «&nbsp;Akerman et moi aimons &quot;tuer&quot; l'action pour aller plus loin. Et pour cela, nous bâtissons une architecture cinématographique spécifique. N'hésitant pas à répéter ce qui doit être martelé. Oui, nous voyons un peu le monde sous un même angle et dans le même espace.&nbsp;»</p><p><em>Elephant</em>. Dans la chambre d'Alex, la caméra effectue plusieurs mouvements circulaires, révélant à chaque passage les détails de la chambre du jeune tueur en train de jouer <em>La Lettre à Élise</em> sur son piano. La même <em>Lettre à Élise</em> que Jeanne écoute à la radio, le soir, en tricotant. La boucle est bouclée.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691392,
+        "desc": "Extraits croisés de <em>La Chambre</em> (Chantal Akerman, 1972) et <em>Elephant</em> (Gus Van Sant, 2003)"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": 2,
+    "name": "Udo Kier",
+    "text": "<p>«&nbsp;Je dois mon numéro de Sécurité sociale à Gus&nbsp;: c'est lui qui s'est porté garant pour mon visa américain&nbsp;!&nbsp;»</p><p>Udo Kier doit un peu plus que ça à Gus Van Sant. C'est lui qui l'a convaincu de venir travailler aux États-Unis après l'avoir croisé dans une fête du festival de Berlin –&nbsp;festival où le cinéaste était venu montrer <em>Mala Noche</em>. Gus van Sant se présente à lui en fan, et lui propose de rejoindre Keanu Reeves et River Phoenix sur son projet suivant, <em>My Own Private Idaho</em>. «&nbsp;Je n'avais jamais entendu parler de ce Van Sant. Vous êtes constamment harcelé pendant les festivals, aussi lui ai-je donné mon adresse en imaginant bien ne plus jamais avoir de nouvelles. Mais un mois plus tard, Gus m'a envoyé le script&nbsp;: &quot;Tu vas jouer Hans&quot;. Dans les films américains, quand tu joues un Allemand, tu es forcément un &quot;Hans&quot;... Bref, peu importe, je dois énormément à Gus.&nbsp;»</p><p>De fait, c'est bien <em>My Own Private Idaho</em> qui lance la «&nbsp;carrière&nbsp;» américaine d'Udo Kier, succession de nanars invraisemblables (<em>Barb Wire</em>, <em>ScoobyDoo</em>, <em>Johnny Mnemonic</em>, <em>Armaggedon</em>...) et de rares rencontres plus stimulantes (Werner Herzog, Jim Carrey, John Carpenter, Madonna...), dont le véritable point d'orgue aura finalement été... le premier film&nbsp;; celui de Gus Van Sant. En une scène mémorable, étonnant moment de cabaret expressionniste où il interprète son <em>Der Adler</em> (<em>L'aigle</em>), l'acteur invoque tout un décorum que lui seul pouvait incarner. Car si Gus Van Sant l'a enrôlé, c'est aussi parce qu'Udo Kier charrie avec lui les fantômes d'un cinéma européen avant-gardiste dont s'est longtemps nourri le cinéaste, et qui habitent justement cette scène. Werner Schroeter, Miklos Jancsó, Walerian Borowczyk et, évidemment, Rainer Werner Fassbinder, avec qui Udo Kier tourna quatre fois. Et aussi parce que Kier est l'incarnation à l'écran d'une autre avant-garde, d'outre-Atlantique celle-ci. Paul Morrissey, Andy Warhol, la Factory... autant de noms que Gus Van Sant a admirés durant ses années d'apprentissage, au point de mettre en chantier un biopic de Warhol à l'époque d'<em>Harvey Milk.</em></p><p>«&nbsp;L'aigle&nbsp;» n'aura croisé la caméra de Gus Van Sant que le temps deux films. Cinq minutes dans <em>My Own Private Idaho</em>. Une apparition dans <em>Even Cowgirls Get the Blues</em>. Deux apparitions habitées, comme hantées. Il y a beaucoup de «&nbsp;Hans&nbsp;» dans le cinéma américain. Mais aucun qui ne ressemble, de près ou de loin, à celui d'Udo Kier.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163691395,
+        "desc": "Extrait de <em>My Own Private Idaho</em> (Gus Van Sant, 1991)"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": 2,
+    "name": "William Eggleston",
+    "text": "<p>«&nbsp;Wedgwood Blue&nbsp;» est le nom d'une série de photographies réalisées par William Eggleston lors d'un <em>road trip</em>, entrepris en 1978, entre la Géorgie et le Tennessee. Les photos qu'il capture par la fenêtre de la voiture, ou qu'il prend allongé sur le sol, représentent exclusivement le ciel et les nuages. Ce ciel pourrait être celui que regarde Mike juste avant une crise de narcolepsie dans <em>My Own Private Idaho</em>. Ou bien celui, menaçant, qui figure dans les deux plans, brièvement insérés dans la scène de la douche de <em>Psycho</em> –&nbsp;seuls ajouts au remake d'Hitchcock, tourné à l'identique. Mais c'est surtout le plan d'ouverture d'<em>Elephant</em>, avec ses nuages qui défilent dans le ciel traversé par la ligne d'un poteau électrique, qui rappelle Eggleston.</p><p>À partir de la fin des années 60, William Eggleston se pose en pionnier dans son art, introduisant la couleur de façon très personnelle dans ses photographies. Il s'intéresse à des sujets de la vie ordinaire, ayant pour cadre les villes et les banlieues américaines, avec tous les détails et symboles de modernisation qui les caractérisent&nbsp;: voitures, supermarchés, panneaux de signalisation, lampadaires...</p><p>Ces clichés ont une grande influence, depuis les années 80, sur le cinéma indépendant américain. Gus Van Sant s'en inspire pour filmer les paysages et les routes sans fin, les coins désertés ou mal famés de tristes banlieues qui remplissent ses films. Il reconnaît volontiers que ces photos sont au cœur de l'esthétique d'<em>Elephant</em>. «&nbsp;Eggleston photographie un environnement mais pas seulement, il y a également des personnages, des gens. On ne sait pas exactement où ils se trouvent, mais quel que soit l'endroit, c'est fascinant.&nbsp;» Comme sortis des photos d'Eggleston, où tout paraît tranquille, routinier, ennuyeux et où rien ne semble pouvoir arriver, les étudiants d'<em>Elephant</em> traversent le terrain de sport, circulent dans les couloirs, discutent dans les toilettes... Finalement, la répétition de ces choses banales donne l'impression d'entretenir un mystère pour mieux révéler l'horreur latente.</p><p>Le photographe et le cinéaste se croisent régulièrement depuis longtemps, que ce soit sur le tournage d'<em>Easter</em>, court métrage co-réalisé en 1999 avec Harmony Korine, ou en 2005 pour une commande de Van Sant sur un projet photographique dans son Kentucky natal. Avec toujours dans le viseur des routes, des parkings, des arrière-cours, des <em>diners</em> et des stations service, et bien sûr le ciel et ses nuages, ceux du titre de la chanson que Gus Van Sant enregistre à Portland en 1992&nbsp;: <em>Bursting Clouds</em>.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "24-1",
+        "desc": "Sky with telephone pole and sign &quot;Morton Disco&quot;, William Eggleston, 1975 ©&nbsp;Eggleston Artistic Trust"
+      },
+      {
+        "type": "video",
+        "id": 163691397,
+        "desc": "Extrait d'<em>Elephant</em> (Gus Van Sant, 2003)"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": 2,
+    "name": "Ansel Adams",
+    "text": "<p>«&nbsp;Magnifique&nbsp;! <em>Gerry</em>, c'est Andy Warhol, Ansel Adams, <em>Blair Witch</em> et Beckett réunis.&nbsp;» (Owen Gleiberman, <em>Entertainment Weekly</em>)</p><p>Pendant plus de 60 ans, Ansel Adams aura inlassablement photographié l'Ouest américain, les vastes plaines de Californie et les ciels du Yosemite National Park. Ses clichés, aux noirs et blancs très contrastés, sont pour certains entrés dans l'Histoire de la photographie, ainsi que dans l'imaginaire collectif américain –&nbsp;peu de photographes auront vu à ce point déclinée leur oeuvre, sur calendriers, cartes postales et posters. Le fait que le nom d'Adams soit convoqué en conclusion d'un article du très populaire <em>Entertainement Weekly</em> en dit d'ailleurs long sur la postérité de l'artiste.</p><p>Gus Van Sant n'a jamais rencontré Adams, qui meurt en 1984, un an avant que le cinéaste ne se lance dans le tournage de son premier film, <em>Mala Noche</em>. Pas plus qu'il ne fait mention du photographe dans ses interviews, ni ne le cite dans ses génériques de films. Et pourtant... Le temps de trois films, quelque chose de l'art atmosphérique d'Ansel Adams aura bel et bien imbibé la pellicule d'Harris Savides et Gus Van Sant.</p><p>Trois films, <em>Gerry</em>, <em>Last Days</em>, <em>Elephant</em>, auxquels il convient d'ajouter le dernier plan de <em>Psycho</em>&nbsp;: alors que le générique vient de s'achever sur le carton final «&nbsp;In memory of Alfred Hitchcock&nbsp;», Gus Van Sant clôt son remake par 30 secondes d'un long plan de paysage vide. Cet intrigant épilogue immobile sur les collines pelées d'Arizona, ostensiblement différent de son modèle hitchcockien (qui se terminait sur un <em>cut</em> brutal), est le signe avant-coureur du virage esthétique entrepris deux ans plus tard par Gus Van Sant. Il annonce distinctement la suite, les paysages arides de sa trilogie de la mort, le désert de <em>Gerry</em>, les pièces vides de <em>Last Days</em>, le plan d'ouverture ennuagé d'<em>Elephant</em>... Autant de films, de plans, dont l'ambiance nébuleuse, éthérée, est nourrie de l'art d'Ansel Adams.</p><p>Quelques années plus tard, Gus Van Sant tourne <em>Promised Land</em>, l'un de ses films les plus engagés, à la fois réflexion écologique sur l'exploitation du gaz de schiste et récit de la révolte d'une population contre le pouvoir de l'argent. «&nbsp;Il n'y a rien de plus horrible que d'avoir à combattre son propre gouvernement pour sauver l'environnement&nbsp;», disait Adams, fervent écologiste, dans les années 70. Après la forme, le fond&nbsp;: que ce soit consciemment ou non, peu de cinéastes auront, mieux que Gus Van Sant, perpétré l'art et la philosophie d'Ansel Adams.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "25-1",
+        "desc": "Ansel Adams <em>The Tetons and the Sanke River. Les Grands Tetons et la rivière Snake (1942)</em>. Parc National des Grands Tetons, Wyoming. Archives Nationales des USA - Archives des Parcs Nationaux"
+      },
+      {
+        "type": "video",
+        "id": 163691399,
+        "desc": "Générique de fin de <em>Psychose</em> (Gus Van Sant, 1998)"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": 2,
+    "name": "Bruce Weber",
+    "text": "<p><em>Interview Magazine</em>, novembre 1991. Gus Van Sant vient de proposer à Bruce Weber de réaliser une série de photographies pour illustrer l'article consacré à la sortie de <em>My Own Private Idaho</em>. Corps alanguis, un verre à la main ou une clope aux lèvres, la tête posée sur les genoux de l'un ou sur le torse de l'autre, River Phoenix, Keanu Reeves et les jeunes acteurs du film prennent la pose.</p><p>Si Bruce Weber et Gus Van Sant étaient faits pour se rencontrer –&nbsp;entre la sortie de <em>Mala Noche</em> et la préparation de <em>Drugstore Cowboy</em>&nbsp;– c'est qu'ils partagent ce même intérêt pour la figure de l'adolescent. Weber photographie de jeunes modèles depuis les années 70. D'abord pour des magazines de mode (<em>GQ</em>, <em>Vogue</em>), puis pour les campagnes de publicité des plus grands stylistes (Calvin Klein, Ralph Lauren, Abercrombie &amp; Fitch), dont il bouscule les codes avec ses clichés noir et blanc montrant des corps presque parfaits, parfois très dénudés, le plus souvent masculins.</p><p>Mais le photographe est également passionné de cinéma. Dans <em>Chop Suey</em>, il filme le corps sculptural du lutteur Peter Johnson et ceux de jeunes boxeurs dans <em>Broken Noses</em>. Ce sont encore des corps d'hommes, totalement nus cette fois, qu'il filme en 1990 dans un clip des Pet Shop Boys, <em>Behaviour Don't Being Boring</em>, entraînant un mini scandale pour cause de paires de fesses un peu trop visibles. C'est au même groupe de pop britannique que Gus Van Sant demande, quelques années plus tard, de composer une chanson pour la bande originale de son film <em>Psycho</em>, intitulée <em>Screaming</em>. Autre clip, autre lien&nbsp;: le photographe coréalise la vidéo du titre de Chris Isaak, <em>Blue Spanish Sky</em>, en compagnie du chef opérateur Harris Savides, avec qui Van Sant réalise quelques-uns de ses films majeurs. Le clip, tourné la même année que <em>My Own Private Idaho</em>, décline les poses lascives et sensuelles d'un jeune Chris Isaac qui n'est pas sans rappeler l'acteur River Phoenix. Gus Van Sant filme à son tour le chanteur de <em>Wicked Game</em> deux ans plus tard pour son titre <em>San Francisco Days</em>, avec pour arrière-plan, la ville et ses couchers de soleil.</p><p>Adolescents, chanteurs, acteurs, ce sont les mêmes figures marquantes qui inspirent Gus Van Sant et Bruce Weber. Des muses que l'un et l'autre filment, photographient, de façon compulsive, et qui traversent avec la même obsession leur œuvre respective.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "26-1",
+        "desc": "Photos de tournage de <em>My Own Private Idaho</em> pour le magazine <a href='http://www.interviewmagazine.com/film/old-news-my-own-private-idaho'><em>Interview</em></a> ©&nbsp;Bruce Weber"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": 2,
+    "name": "Andy Warhol",
+    "text": "<p>«&nbsp;J'étais prêt à tourner un biopic de Warhol, j'avais même trouvé le financement. Je voulais que ça se déroule au Serendipity, le restaurant où se retrouvaient alors les directeurs artistiques, les gars de la pub, les galeristes... River ressemblait pas mal au Andy des jeunes années. Mais le projet n'est jamais allé plus loin.&nbsp;» En 2008, interrogé par James Franco, Gus Van Sant aborde cet étonnant projet avorté, qu'un portrait croisé de River Phoenix et Keanu Reeves dans <em>Interview</em> (magazine créé en 1969 par... Andy Warhol) évoquait déjà seize ans plus tôt&nbsp;: «&nbsp;Les deux acteurs se font face –&nbsp;Phoenix est blond platine, plongé dans les préparatifs de son Andy Warhol pour le prochain Gus Van Sant&nbsp;; Reeves a lui le teint hâlé et les cheveux noirs&nbsp;– comme le reflet en négatif l'un de l'autre.&nbsp;»</p><p>Le film ne se fera jamais, mais Gus Van Sant a, par la suite, semé assez d'allusions et de clins d'œil dans ses créations pour que plane au-dessus de son œuvre l'ombre tutélaire d'Andy Warhol.</p><p>Il y a d'abord l'évidence. <em>Prête à tout</em>, appropriation littérale et goguenarde de la plus célèbre des maximes warholiennes. «&nbsp;À l'avenir, chacun aura le droit à quinze minutes de célébrité mondiale&nbsp;» disait l'artiste en 1968. «&nbsp;Vous n'êtes personne aux États-Unis si vous ne passez pas à la télé. À quoi cela sert-il de faire quoi que ce soit si personne ne regarde&nbsp;?&nbsp;» professe en écho Nicole Kidman, incarnation malade et jusqu'au-boutiste de la prédiction.</p><p>Il y a <em>Psycho</em>, geste expérimental surprenant, duplicata plan par plan du chef-d'œuvre d'Hitchcock, plus proche de la réplication des soupes Campbell que du remake proprement dit. Van Sant&nbsp;: «&nbsp;Ce film posait le problème de l'appropriation, déjà travaillé avant moi par Van Gogh, Picasso et Warhol. Prendre quelque chose en l'état à quelqu'un, et le faire mien&nbsp;; m'approprier un film d'Hitchcock, un de mes films préférés, et en faire une copie.&nbsp;» CQFD.</p><p>Et il y a Udo Kier, forcément, figure warholienne par excellence, croisée dans <em>My Own Private Idaho</em> et <em>Even Cowgirls Get the Blues</em>.</p><p>Il y a, aussi, les liens plus ténus, hasards heureux et coïncidences fortuites. C'est la Rhode Island School of Design, fréquentée par Gus Van Sant en 1969, alors que Warhol y expose l'installation <em>Raid the Icebox I</em>. C'est David Bowie, clippé en 1990 par le cinéaste, et qui incarnera Warhol cinq ans plus tard chez Basquiat. C'est <em>Venus in Furs</em> du Velvet Underground, religieusement écouté dans une magnifique scène de <em>Last Days</em>...</p><p>C'est aussi, enfin, une passion commune pour le format Polaroid. En 2010, au Jordan Schnitzer Museum of Art d'Eugene, Oregon (150 km de Portland, ville d'élection du cinéaste) est organisée une grande exposition mettant en parallèle les photographies de Warhol et celles de Gus Van Sant. Lawrence Fong, commissaire de l'événement, écrivait alors dans le catalogue ces quelques lignes&nbsp;: «&nbsp;L'art du portrait et du collage chez Gus Van Sant ressemble à s'y méprendre à celui de Warhol, tant dans l'utilisation des blocs, des échantillons de couleur que la gestuelle et le dessin.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "27-1",
+        "desc": "Autoportrait d'Andy Warhol ©&nbsp;Andy Warhol, ADAGP"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": 2,
+    "name": "David Bowie",
+    "text": "<p>Janvier 2016. Bowie vient de mourir. Gus Van Sant rappelle à quel point le chanteur a marqué sa vie. «&nbsp;David Bowie était évidemment l'un des musiciens les plus inspirants de toute l'histoire de la pop, et pour la plupart d'entre nous. Il est venu à Portland une fois, mais à une période où je n'étais pas là. Et il a été logé par des gens qu'il connaissait très peu, et dont il a partagé le quotidien. Ce qui m'avait paru extraordinaire pour une telle rock star.&nbsp;» </p><p>En 1990, à l'occasion de la sortie de la compilation <em>ChangesBowie</em>, Van Sant tourne le clip d'une version remixée de <em>Fame</em>, première chanson de Bowie à atteindre la première place des <em>charts</em> américain en 1975. Utilisant des effets techniques typiques des années 90, Gus Van Sant mêle extraits d'anciens clips de Bowie et images du chanteur jouant de la guitare ou dansant en compagnie d'une grande figure québécoise de la danse contemporaine, Louise Lecavalier, qui lui ressemble étonnamment.</p><p>Malheureusement, le clip ne satisfait pas entièrement Bowie, et les deux hommes ne retravailleront pas ensemble. Pourtant, dans l'univers de Van Sant, Bowie semble très présent, et en tirant les fils de ses œuvres, on s'aperçoit que l'icône glam-rock n'est jamais très loin.</p><p><em>Queen Bitch</em>. Le seul morceau de Bowie qu'on peut entendre dans un film de Gus Van Sant, c'est dans <em>Harvey Milk</em>. Ce titre, composé en 1971, est un hommage au <em>Sweet Jane</em> du Velvet Underground avec ses riffs de guitare bien caractéristiques. Le Velvet, encore un groupe qu'affectionne particulièrement Van Sant et qu'il donne à écouter religieusement avec <em>Venus in Furs</em> sur vinyl dans <em>Last Days</em>. Venus in Furs, c'est aussi le nom du groupe dans le film de l'ami Todd Haynes, <em>Velvet Goldmine</em>, dont le titre reprend évidemment la chanson éponyme de Bowie qui a inspiré le portrait du héros. Le personnage interprété par Ewan McGregor, quant à lui, s'appelle Curt et ressemble à Lou Reed. Il y a aussi l'autre Kurt, celui de Nirvana, qui fait un malheur avec une version <em>unplugged</em> de <em>The Man Who Sold the World</em>. Bowie, toujours lui.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "29-1",
+        "desc": "Couverture du maxi-single <em>Fame '90</el> de David Bowie"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": 2,
+    "name": "Pink Martini",
+    "text": "<p>A Portland, chez Thomas Lauderdale, membre fondateur du groupe Pink Martini, la fête bat son plein plusieurs fois par mois. Jusque tard dans la nuit, projections, lectures ou concerts réunissent les people du tout-Portland. Gus Van Sant, le musicien Rufus Wainwright, le réalisateur Todd Haynes, l'icône de la mode et confidente d'Andy Warhol, Paige Powell, et autres invités réguliers, se retrouvent dans le loft de trois étages, situé dans le centre de la ville, à la déco rétro chic et dont les murs sont recouverts de tableaux, photos, partitions, couvertures de vieux magazines, étagères remplies de bouquins, d'appareils photos et de boîtes contenant des films 16 mm –&nbsp;comme <em>Le Mécano de la General</em> ou <em>Le Magicien d'Oz</em> en version espagnole.</p><p>A l'image de ce lieu chargé d'histoire, de souvenirs et d'archives, les albums de Pink Martini rassemblent chansons originales et reprises, aux influences variées et dans plusieurs langues. Pour Thomas Lauderdale, «&nbsp;le meilleur moment de la fête, c'est de convier les invités&nbsp;». Et les invités sont aussi nombreux à poser leur voix sur les enregistrements du groupe, comme par exemple Gus Van Sant qui reprend la célèbre chanson, composée par Henri Mancini et immortalisée par Audrey Hepburn, <em>Moon River</em>.</p><p>Les clins d'œil entre les deux amis ne s'arrêtent pas là, puisque l'on peut entendre le tube de Pink Martini <em>Sympathique</em> dans le film <em>Restless</em>. Lauderdale y apparaît d'ailleurs dans le rôle du pasteur.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164280414,
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": 2,
+    "name": "Flea",
+    "text": "<p>«&nbsp;J'ai pris pour habitude de photographier les gens. Je les mets près d'une fenêtre, à la lumière, et je prends une photo, une seule. Pour me souvenir d'eux... Quand j'ai commencé, le numérique n'existait pas, Google non plus, et vous ne pouviez pas trouver de photos de quelqu'un à moins d'en faire vous-même le portrait. Alors, quand je croisais des gens intéressants, pas seulement des acteurs, mais aussi des gamins comme Flea ou Anthony Kiedis, je les photographiais.&nbsp;»</p><p>Effectivement, parmi les centaines de Polaroids de Gus Van Sant se niche un beau portrait noir et blanc de Flea, le fantasque bassiste des Red Hot Chili Peppers, immortalisé alors qu'il est à l'aube d'une carrière internationale. Entre le musicien et le cinéaste, le courant passe tant et si bien qu'en 1992, Van Sant signe le clip d'<em>Under the Bridge</em>, l'un des titres les plus connus des Red Hot. Et ce à la demande expresse du bassiste. Renvoi d'ascenseur quelques mois plus tard&nbsp;: Flea fait une courte apparition dans <em>My Own Private Idaho</em>, et laisse une impression durable malgré la brièveté de sa scène. Surtout, c'est sur le tournage que se noue son amitié avec River Phoenix, faite de jams jusqu'au bout de la nuit et de virées stupéfiantes. Le soir de son overdose fatale, une personne accompagne le jeune acteur dans l'ambulance qui le conduit au Cedars-Sinai Medical Center&nbsp;: Flea...</p><p>Plus anecdotique, mais témoignage d'une relation constante et non entamée par le drame&nbsp;: le cinéaste fait à nouveau appel au musicien, sept ans plus tard, le temps d'un caméo éclair dans <em>Psycho</em>.</p><p>Au-delà de sa «&nbsp;gueule&nbsp;» d'ange cassé et de son corps musculeux, c'est toute la mythologie <em>slacker</em> charriée par Flea qui a tapé dans l'œil  de Van Sant. Figure du rock californien, le bassiste des Red Hot incarne aussi une certaine contre-culture de la côte Ouest, adolescence glandeuse, funk, punk, skateboard et marijuana, que le réalisateur aura photographiée, puis filmée de loin en loin, et plus particulièrement dans <em>Paranoid Park</em>. Le photographe Bruce Weber, intime de Gus Van Sant, ne s'y trompait pas, lui qui avait déjà proposé à Flea, deux ans avant <em>My Own Private Idaho</em>, un petit rôle dans son mythique <em>Let's Get Lost</em>.</p><p>1991. Sur le Polaroid de Gus Van Sant, c'est un Flea au sourire canaille qui arbore fièrement un t-shirt provocateur –&nbsp;«&nbsp;I don't care about you, Fuck you&nbsp;». On se dit alors qu'il est de passage, et qu'il n'y aucune raison que le trublion croise à nouveau la route du cinéaste <em>arty</em>. 20 ans plus tard, lors de l'inauguration de l'exposition Van Sant à la galerie Gagosian de Los Angeles, on retrouve les deux, bras dessus, bras dessous. Derrière la bravade adolescente se cachait une communauté d'esprit que deux décennies d'une gloire impétueuse n'auront jamais entamée.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163704869,
+        "desc": "Montage d'extraits de <em>My Own Private Idaho</em> (Gus Van Sant, 1991)"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": 2,
+    "name": "Elliott Smith",
+    "text": "<p>1996.&nbsp;Gus Van Sant entame le montage de <em>Will Hunting</em>.</p><p>«&nbsp;Comme je le fais pour la plupart de mes œuvres, j'ai essayé de trouver une musique que je pourrais utiliser tout au long du film, et non pas une simple compilation de différents artistes. Je me suis dit que ce serait intéressant d'essayer ça avec les chansons d'Elliott. Alors, j'ai dit au monteur, Pietro Scalia, de coller sa musique sur un premier bout à bout, et ça a fonctionné.&nbsp;»</p><p>Un an plus tard, vêtu d'un étonnant costard blanc, Elliott Smith interprète <em>Miss Misery</em>, le titre phare de la bande originale, devant le tout Hollywood. Nommé aux Oscars, le confidentiel chanteur de Portland se retrouve en compétition avec Céline Dion, élue pour <em>Titanic</em>. Dépressif, angoissé, Smith ne se sent pas à sa place et refuse d'abord la proposition de l'Académie des Oscars, jusqu'à ce que l'organisation lui fasse comprendre que s'il ne chante pas lui-même sa chanson sur scène, quelqu'un d'autre s'en chargera à sa place.</p><p>L'anecdote en dit long, à la fois sur l'intransigeance artistique du chanteur, ses tourments, mais aussi sur le chemin parcouru durant ces douze mois tourbillonnants, entre le montage de <em>Will Hunting</em> et sa prestation aux Oscars. Jusqu'alors figure underground de la scène punk de Portland au sein du groupe Heatmiser, fraîchement reconverti dans une carrière solo au succès balbutiant, Elliott Smith est relativement inconnu du grand public quand Gus Van Sant lui propose de contribuer à la bande originale de son sixième film&nbsp;: «&nbsp;il commençait à être un tout petit peu plus écouté aux États-Unis, mais seuls quelques connaisseurs appréciaient vraiment sa musique. On lui a demandé l'autorisation, il a regardé le film, et donné son accord.&nbsp;» Alors, tout s'enchaîne. Triomphe inattendu au box-office, <em>Will Hunting</em> catapulte le chanteur en haut des <em>charts</em> américains. Au point de faire d'Elliott Smith l'un des rois des BO de l'époque&nbsp;: on croise ainsi sa guitare acoustique dans <em>American Beauty</em>, <em>Au Nom d'Anna</em>, <em>La Famille Tenenbaum</em> ou encore <em>Âge difficile obscur.</em></p><p>Accro au crack et à l'héroïne, Smith traverses ces années de succès comme un fantôme. Il remonte la pente après une cure de désintoxication en 2002, puis replonge, avant de se suicider de deux coups de couteau dans le cœur l'année suivante, à l'âge de 34 ans. Quatre ans plus tard, en 2007, Gus Van Sant utilise les magnifiques <em>Angeles</em> et <em>The White Lady Loves You More</em> pour la bande originale de <em>Paranoid Park</em>. Puis ce même <em>Angeles</em>, à nouveau, dans <em>Restless</em> (2011). En août 2013, quatre concerts sont organisés pour célébrer les 10 ans de la mort du chanteur. A Portland, avant que le concert ne commence, un homme s'avance sur scène pour raconter une anecdote sur Elliott Smith. C'est Gus Van Sant.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164543005,
+        "desc": "",
+        "ratio": 0.5625
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": 2,
+    "name": "Sonic Youth",
+    "text": "<p>1990.&nbsp; Lorsque Sonic Youth sort <em>Goo</em>, son huitième album, l'idée est de tourner un clip pour chacun des onze titres, en faisant appel aux amis réalisateurs. Todd Haynes en fait partie. Thurston Moore et Kim Gordon, membres leaders du groupe, partagent avec lui la même tendresse pour l'histoire de Karen Carpenter, chanteuse et virtuose de batterie, moitié féminine du groupe des années 70, The Carpenters, décédée à l'âge de 32 ans. Haynes lui a déjà consacré un court métrage en 1986, <em>Superstar&nbsp;: The Karen Carpenter Story</em>, entièrement tourné avec des poupées Barbie. Le groupe de rock en fait une chanson, <em>Tunic (Song For Karen)</em>, accompagné d'une vidéo à l'univers kitsch et enfantin.</p><p>Pour le clip de <em>Cinderella's Big Score</em>, Kim Gordon souhaite s'inspirer du premier film d'un certain Gus Van Sant, <em>Mala Noche</em>. Derrière la caméra, David Markey filme la fuite d'un adolescent contraint de se prostituer, sorte d'annonciation faite à Gus Van Sant pour <em>My Own Private Idaho</em> qu'il réalise l'année suivante.</p><p>Quinze ans plus tard, Thurston Moore et Kim Gordon apparaissent au générique de <em>Last Days</em>. Depuis le début des années 80, Sonic Youth, figure de proue de la scène <em>noise</em> new-yorkaise, évolue au milieu d'une myriade d'artistes issus des milieux alternatifs dans tous les domaines de l'art. Au lycée, les copains de Kim Gordon s'appellent Danny Elfman et Larry Gagosian. Plus tard à New York, avec Thurston Moore, ils traînent dans les soirées fréquentées par David Byrne ou Jean-Michel Basquiat. Ils suivent la scène musicale underground, ouvrent la voie à des groupes comme Nirvana. Kurt Cobain devient un ami proche.</p><p>Pour Gus Van Sant, Thurston Moore a tout du parfait conseiller artistique et musical pour réaliser <em>Last Days</em>. «&nbsp;Gus m'a contacté. Il avait l'intention de tourner un film court, sur un scénario très lâche, onirique. Il s'agissait d'un personnage qui évoquait plus ou moins Kurt Cobain. On le voyait flotter dans le paysage comme s'il se promenait dans sa propre vie. Il pensait déjà à Michael Pitt pour le rôle. Gus m'a demandé de faire en sorte que ce que l'on voyait de la musique ait l'air correct. Je savais que s'il fallait faire un film sur ce sujet, Gus était la personne qu'il fallait. Son film <em>My Own Private Idaho</em> avait beaucoup compté pour Kurt Cobain. Gus et lui ont tous les deux travaillé avec William Burroughs, ils viennent de la même région, le Nord-Ouest pacifique.&nbsp;»</p><p><em>Last Days</em> n'est pas une biographie filmée et le film utilise une musique déconcertante, abstraite et hypnotique, plutôt qu'un rock alternatif attendu. Des morceaux que Kim Gordon qualifie de très féminins&nbsp;: «&nbsp;Ce n'est pas le genre de rock viril auquel on pourrait s'attendre. J'ai trouvé que c'était une belle idée, très sensible, ce qui correspondait plutôt bien à la nature de Kurt.&nbsp;»</p><p>Dans le film, Gordon tient le rôle de la représentante de la maison de disques qui demande à Blake / Kurt s'il a vu récemment sa fille. Elle essaye de le persuader de quitter la maison, de laisser tomber les excès qui le mènent vers sa perte. Une occasion qu'elle aurait aimé avoir réellement.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163704873,
+        "desc": "Extraits croisés de <em>Mala Noche</em> (Gus Van Sant, 1986) et du clip de <em>Cinderella's Big Score</em> (Sonic Youth, 1991)"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": 2,
+    "name": "Kurt Cobain",
+    "text": "<p>S'il peut concéder, au détour de certaines interviews, avoir rencontré Kurt Cobain quelquefois, Gus Van Sant n'évoque jamais clairement le lien qui les unissait. À peine sait-on que le leader de Nirvana tenait <em>My Own Private Idaho</em> pour l'un de ses films de chevet. Et que Gus Van Sant fut très affecté par sa disparition en 1994.</p><p>Le fantôme du chanteur hante pourtant l'œuvre du cinéaste. En 1997, dans son roman <em>Pink</em>, on identifie clairement Kurt Cobain et Courtney Love derrière les personnages de Blake et Blackie, rockstars de retour de désintox. Et huit ans plus tard, dans <em>Last Days</em>, c'est derrière le même patronyme de Blake que s'incarne à nouveau, de manière plus évidente encore, la figure de Cobain. Adaptation poétique des derniers jours de l'icône grunge, le film de Gus Van Sant ne prétend jamais à l'hagiographie idolâtre. C'est un film rêvé, une déambulation, «&nbsp;la représentation, rendue à l'intimité et l'ordinaire, d'un jeune homme seul qui tourne en rond.&nbsp;»</p><p>Gus Van Sant&nbsp;: «&nbsp;J'avais peur de tomber dans le piège du biopic, avec ses passages obligés. J'avais commencé à écrire un script très classique, Kurt Cobain montant son premier groupe, son premier concert, les conflits avec le label, tout ce genre de clichés... J'ai rédigé quelques pages, puis rapidement j'ai eu envie d'utiliser des poupées, comme Todd Haynes l'avait fait pour son biopic de Karen Carpenter. J'imagine que c'était pour moi une manière de prendre ses distances, d'éviter le concours de sosies. Je ne suis pas sûr d'avoir réussi, mais j'ai essayé.&nbsp;»</p><p>Au-delà de leurs accointances artistiques (William S. Burroughs, Sonic Youth...), on distingue aisément ce qui a pu bouleverser le cinéaste dans le destin tragique du chanteur. L'indépendance frondeuse. La liberté. La solitude. Et peut-être, aussi, comme un miroir lui renvoyant sa propre image, et celle plus tragique de River Phoenix, l'infinie difficulté à rester un franc-tireur dans la grande lessiveuse de l'<em>entertainment</em> américain.</p>"
+  },
+  {
+    "id": 36,
+    "level": 2,
+    "name": "Ethan Rose",
+    "text": "<p>Oaks Park Skating Rink. C'est dans ce lieu improbable, une salle de roller-skate située à Portland, qu'Ethan Rose fait un jour une découverte incroyable&nbsp;: un vieil orgue Wurlitzer, construit en 1926, qui servait autrefois à accompagner les films muets dans un cinéma de la ville. La machine, extrêmement sophistiquée, qui aujourd'hui permet aux skaters de patiner en musique, peut reproduire le son de nombreux instruments, créer des effets percussifs et des bruitages hors normes. Tout ce qu'il faut au compositeur pour explorer de nouvelles textures musicales et enregistrer en 2009 son troisième album <em>Oaks</em>.</p><p>Deux ans plus tôt, c'est un autre <em>skate-park</em> de Portland qui réunit Ethan Rose et Gus Van Sant&nbsp;: le Paranoid Park. Un endroit qui attire et intrigue le cinéaste depuis qu'il habite la ville. Le roman de Blake Nelson, qui porte le nom du parc et dont le film est adapté, permet à Van Sant de l'approcher. «&nbsp;Le skate est un univers très singulier, une micro-société d'outsiders qui génère sa propre culture visuelle et musicale.&nbsp;» Si, avec son chef-op Chris Doyle, il choisit de s'inspirer des films de skate «&nbsp;visuellement passionnants&nbsp;» pour filmer le mouvement des corps, le rythme et la fluidité des gestes des skaters, Van Sant imagine une bande-son beaucoup moins convenue. Aux célèbres mélodies de Nino Rota, empruntées à Fellini, viennent s'ajouter un tube rockabilly de Billy Swan, des chansons d'Elliott Smith, des extraits électro-acoustiques de Robert Normandeau et Francis White. Et <em>Ceiling Songs</em> d'Ethan Rose.</p><p>Boucles électroniques, résonances métalliques, carillons et cliquetis de boîte à musique, le morceau d'Ethan Rose, d'une grande richesse expressive, illustre parfaitement la confusion et l'errance de Gabe, jeune héros fragile rongé par la culpabilité. Comme aspirée par l'ambiance sonore, la caméra file en même temps que ses personnages. Images ralenties tournées en Super-8, les skaters glissent sur leurs planches le long des crêtes de béton, pendant que l'adolescent tourmenté s'enfonce dans les hautes herbes pour mieux se faire oublier.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163704878,
+        "desc": "Extrait de <em>Paranoïd Park</em> (Gus Van Sant, 2007)"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": 2,
+    "name": "Hildegard Westerkamp",
+    "text": "<p><em>Elephant</em>. La caméra suit les personnages à travers les couloirs de l'école jusqu'au parc. De manière presque imperceptible, des sons d'ambiance, qui n'appartiennent manifestement pas au décor, se substituent aux bruits réels du lycée. Pour mieux faire entendre le monde intérieur des adolescents, Gus Van Sant et son ingénieur du son, Leslie Schatz, ont choisi d'utiliser des compositions de musique concrète d'Hildegard Westerkamp.</p><p>Pionnière dans l'étude de l'écologie acoustique, Hildegard Westerkamp utilise des «&nbsp;enregistrements de terrain&nbsp;», paysages sonores urbains et naturels, comme matériau de base pour ses créations. <em>Beneath the Forest Floor</em> et surtout <em>Doors of Perception</em>, également utilisée dans <em>Last Days</em>, viennent renforcer les sentiments de solitude ou de mal-être des personnages. «&nbsp;Dans les films de Van Sant, les longs plans de marche ou les plans rapprochés d'une personne en mouvement, associés à certains sons ou à des environnements sonores, créent un lien intérieur entre le spectateur et le personnage à l'écran. <em>Last Days</em> m'a ramenée à l'époque où je venais juste de m'installer à Vancouver en 1968. Fraîchement arrivée d'Allemagne, je n'arrivais pas à comprendre mon environnement. Je reste encore tout étonnée par le fait que mes compositions fonctionnent aussi bien dans ce film.&nbsp;»</p><p><em>Doors of Perception</em>. Le titre de la composition fait référence au livre d'Aldous Huxley, publié en 1954, sur l'expérience de perceptions sensorielles exacerbées par l'usage de drogues. L'œuvre d'Huxley fait elle-même référence à un vers du poète et peintre romantique anglais, William Blake, extrait du poème <em>Le Mariage du ciel et de l'enfer</em>. Blake, justement, c'est le nom que porte le personnage de <em>Last Days</em>. Ses longues promenades dans les bois sont accompagnées, en fond sonore, de bruits de portes, sifflements, ruissellements, sons de cloches... permettant au spectateur de mieux pénétrer son monde émotionnel.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163704879,
+        "desc": "Extrait d'<em>Elephant</em> (Gus Van Sant, 2003)"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": 2,
+    "name": "Harris Savides",
+    "text": "<p>«&nbsp;Gus et moi, nous nous donnons des règles. Des règles simples, très simples, comme&nbsp;: <em>Peu de dialogue</em>. <em>Laisser tourner le plus longtemps possible</em>. <em>Mettre la caméra à cette hauteur, comme Ozu</em>. C'est passionnant, cela nous oblige à la fois à une intégrité totale et à une prise de décision alerte, rapide. L'essence même de notre liberté est paradoxalement là, dans ces contraintes. Vous ne pouvez pas être un immense metteur en scène dans l'abandon. Vous devez vous donner des règles du jeu, une discipline. Alors, seulement, vous trouvez votre marge de liberté. Je dois cette philosophie à Gus.&nbsp;»</p><p>Chef opérateur de Gus Van Sant sur cinq films, dont la «&nbsp;trilogie de la mort&nbsp;» (<em>Gerry</em>, <em>Elephant</em>, <em>Last Days</em>), Harris Savides opère sur un mode délicat, moins tonitruant que celui de son homologue australien Christopher Doyle, directeur photo pour Van Sant à deux reprises. Il est un collaborateur discret, mais néanmoins indispensable, notamment au sein du dispositif esthétique développé par le cinéaste de 2002 (<em>Gerry</em>) à 2005 (<em>Last Days</em>). Théorisés puis mis en pratique en étroite collaboration avec Savides, les principes de mise en scène empruntent au Dogme95, à Béla Tarr, au <em>Jeanne Dielman</em> de Chantal Akerman, ou encore au <em>Nostalghia</em> de Tarkovski –&nbsp;autant de films et de cinéastes qui ont nourri le duo et l'ont poussé à emprunter de nouvelles voies. De la lumière naturelle. Des plans longs. Des dispositifs de mise en scène marquants, et marqués&nbsp;: les lents travellings au steadicam d'<em>Elephant</em>, les plans-séquences immobiles de <em>Last Days</em>, la lumière naturelle de <em>Gerry</em>... Ces fameuses règles du jeu, dans lesquelles chacun des deux trouvait ses marques.</p><p>Accaparé par les tournages de <em>Zodiac</em> et d'<em>American Gangster</em>, Savides n'est pas de l'aventure <em>Paranoid Park</em>, mais il rempile avec Gus Van Sant pour <em>Harvey Milk</em> puis <em>Restless</em>, deux films aux formats plus traditionnels mais à la photographie extrêmement subtile. En 2012, Savides disparaît brutalement à l'âge de 55 ans, foudroyé par un cancer du cerveau. Reste une filmographie exemplaire, dans laquelle se nichent quelques-unes des œuvres majeures de Gus Van Sant. Reste aussi le souvenir d'un chef-opérateur aventureux et raffiné, qui aura su, tout au long de sa carrière, s'effacer pour laisser vivre les personnages de ses films.</p><p>À propos de <em>Last Days</em>, il disait&nbsp;: «&nbsp;J'éclaire la pièce, puis je laisse les acteurs l'habiter –&nbsp;au lieu d'éclairer les acteurs. C'est une lutte permanente, entre la meilleure lumière pour eux, et la meilleure lumière pour l'histoire. Je ne veux pas arriver à ce moment où le public remarquerait mon travail.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 163704877,
+        "desc": "Extraits de <em>The Making Of Last Days</em> (Felix Andrew, 2004) et <em>Saltlake Van Sant</em> (Felix Andrew, 2001) ©&nbsp;Felix Andrew"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": 2,
+    "name": "Christopher Doyle",
+    "text": "<p>Gus Van Sant et Christopher Doyle n'ont collaboré à ce jour que sur deux films. Le controversé <em>Psycho</em>. Et <em>Paranoid Park</em>, tournage pour lequel le chef-op australien semble d'ailleurs avoir plutôt été une solution de recours («&nbsp;Harris Savides et moi avons travaillé sur <em>À la rencontre de Forrester</em> et sur presque tous les films suivants. Quand il ne tournait pas avec moi, c'était parce qu'il était déjà occupé –&nbsp;ainsi Christopher Doyle a-t-il fait <em>Paranoid Park</em>&nbsp;»). Il n'empêche. Le lien entre les deux artistes reste fort, chacun s'envoyant du «&nbsp;ami&nbsp;» par-ci et du «&nbsp;génie&nbsp;» par-là encore aujourd'hui, dès que l'occasion se présente et qu'un micro tendu pose à l'un une question sur l'autre.</p><p>Leur collaboration n'avait pourtant à la base rien d'évident. Connu pour son franc-parler fleuri, sa méfiance et ses mots choisis à l'égard du microcosme hollywoodien, le chef-opérateur australien est aussi grande gueule que son ami peut être réservé. Doyle&nbsp;: «&nbsp;L'un parle trop, l'autre pas assez. Je ne me tais jamais.&nbsp;»</p><p>C'est donc sur de purs critères esthétiques que Doyle est initialement choisi par Van Sant, ébloui par la majesté de ses couleurs chez Wong Kar-wai. Car le cinéaste a justement besoin de couleurs. De couleurs qui tranchent. Qui éclatent. Flamboyantes. Embarqué dans le projet le plus ambitieux, et le plus fou de sa jeune carrière –&nbsp;un remake plan par plan de <em>Psychose</em>&nbsp;– Gus Van Sant veut à la fois coller au plus près à son prestigieux modèle, et le révolutionner de l'intérieur, principalement grâce aux couleurs riches et saturées de Doyle. «&nbsp;Avant d'entamer le tournage de chaque plan, nous regardions l'original sur DVD afin de coller au mieux à la lumière. Puis nous passions à la couleur, afin de créer quelque chose d'à la fois familier et perturbant, de dissonant.&nbsp;»</p><p>20 ans après, <em>Psycho</em> reste une énigme pour les uns, un coup de génie pour les autres. Nommé aux Razzie Awards (les Oscars des pires films de l'année), le film est en tous cas encore aujourd'hui le plus contesté de Gus Van Sant. Qui a trouvé en Doyle son plus fervent avocat. «&nbsp;Non non non. Gus Van Sant n'a pas fait de remake de <em>Psychose</em>. Gus a fait une œuvre d'art à 20 millions d'euros. Ce n'est pas du tout la même chose. Est-ce que quelqu'un en a quoi que ce soit à foutre de ce film&nbsp;? Pas moi. Je l'ai seriné à Gus, et il a fini par l'admettre&nbsp;: ce n'est pas un putain de film, c'est un concept. C'est la réinterprétation d'une œuvre d'art en noir et blanc. Ne vous souciez pas du film. Pensez concept. Pensez à ce putain de Duchamp.&nbsp;»</p><p>Du Doyle dans le texte, qui entre deux «&nbsp;Fuck&nbsp;!&nbsp;», trace en creux le portrait d'un Gus Van Sant dynamiteur des conventions hollywoodiennes, tout aussi punk que lui.</p><p>Tous deux étaient finalement bien faits pour se rencontrer.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164063971,
+        "desc": "Extrait du Making of de <em>Paranoïd Park</em> de Gus Van Sant (Felix Andrew, 2004) ©&nbsp;Felix Andrew"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": 2,
+    "name": "Curtiss Clayton",
+    "text": "<p>Dans la salle de montage, l'ambiance est décontractée. Gus Van Sant, Curtiss Clayton et son assistant Scott discutent tout en visionnant les rushes de <em>My Own Private Idaho</em>. Clayton revient tout juste de Los Angeles où il a présenté un montage à la production du film, New Line Cinema. Van Sant ne semble pas vraiment attentif au compte-rendu de leurs réactions. Devant les images de la scène de moto, Van Sant raconte, avec une légère délectation, comment un jour ils ont frôlé l'accident pendant le tournage.</p><p>Avec Clayton, c'est la deuxième fois qu'ils travaillent ensemble. Sur leur première collaboration, <em>Drugstore Cowboy</em>, Van Sant ne s'est pas encore fait un nom, mais le jeune monteur sent très vite qu'il est engagé dans l'un de ses meilleurs projets. «&nbsp;J'ai aussitôt été très emballé. Je n'avais aucune idée –&nbsp;comme personne d'entre nous d'ailleurs&nbsp;– de l'impact qu'aurait le film, mais en voyant les rushes, j'ai tout de suite senti que Gus Van Sant était le genre de réalisateurs avec qui j'avais toujours voulu travailler.&nbsp;» Après le succès en 1989 de <em>Drugstore Cowboy</em>, <em>Idaho</em> propulse Van Sant à la tête du mouvement New Queer Cinema émergeant.</p><p>Gus Van Sant va faire ses deux films suivants avec Curtiss Clayton&nbsp;: <em>Even Cowgirls Get the Blues</em> et <em>Prête à tout</em>. Si <em>Prête à tout</em>, premier film de studio de Van Sant, fait également un carton, il n'en va pas de même pour <em>Even Cowgirls</em>. L'adaptation du roman de Tom Robbins reçoit de très mauvaises critiques lors de l'avant-première en 1993 au festival de Toronto, contraignant Van Sant et Clayton à revoir le montage. À grand renfort d'ellipses, le film, qui sort finalement l'année suivante, se voit priver de 30 minutes sur les deux heures de la version initiale, entraînant une plus grande confusion autour de cette folle épopée d'une auto-stoppeuse dotée des plus grands pouces du monde. La Cinémathèque propose de découvrir, près de vingt ans plus tard, la version Director's cut inédite, lors de la rétrospective consacrée à Gus Van Sant en avril 2016.</p><p>Retour dans la salle de montage. Van Sant se promène dans la pièce, pendant que Clayton démêle des images tournées dans un hôtel abandonné. Par de longs panoramiques circulaires, la caméra dévoile une bande de jeunes prostitués. L'un des plans de coupe s'arrête sur Mike, un ancien gamin des rues qui joue dans le film et qui servit de modèle au personnage de River Phoenix. Les rushes défilent. Jusqu'à trouver des éléments, un rythme, une dynamique d'ensemble. Clayton sait que Van Sant n'est pas du genre à rester vissé au scénario. «&nbsp;Par peur de se détourner d'une certaine idée initiale du film, une ambition originale peut pourtant se révéler tout à fait inopérante sur ce qui a été tourné. Mais vous n'aurez jamais idée avant le montage de l'intensité que pourra dégager telle scène que vous aviez pensée comme un creux et qui est finalement un temps fort ou bien l'inverse. À vrai dire, l'essentiel du travail de montage consiste en cela&nbsp;: altérer la matière issue du tournage, la faire tendre vers quelque chose de différent, afin qu'elle aille dans le sens du film.&nbsp;»</p>"
+  },
+  {
+    "id": 42,
+    "level": 2,
+    "name": "John Campbell",
+    "text": "<p><em>Mala Noche</em>. Après quelques années passées à New York, Gus Van Sant revient à Portland en 1983 pour tourner son premier long métrage. Il a 22&nbsp;000 dollars en poche, pour un tournage qui va durer un mois. L'équipe technique se limite à trois personnes&nbsp;: Van Sant réalise et produit, Pat Baum vient avec son magnétophone et John Campbell avec son appareil 16 mm, des éclairages et une camionnette.</p><p>Avec Campbell, la rencontre a eu lieu, par hasard, au laboratoire local de la ville, Teknifilm. Jusque là, il a réalisé des films d'actualités et des documentaires, mais il décide de tout plaquer et de suivre Van Sant dans son adaptation du roman autobiographique de Walt Curtis, auteur de Portland&nbsp;: l'histoire sentimentale d'un gringo amoureux d'un adolescent mexicain, immigré clandestin. Van Sant travaille à partir d'un storyboard très détaillé, le seul qu'il ait jamais produit. «&nbsp;J'avais pour base des croquis et je disais à John ce qu'il devait faire&nbsp;: &quot;Filme ça en plan américain&nbsp;!&quot; Il était toujours sur le coup. Je n'avais qu'à dire &quot;On tourne&nbsp;!&quot; J'ai eu tous les plans que je voulais.&nbsp;» Sur le tournage, pas de préparation, pas de répétitions, la petite équipe va à l'essentiel, rien n'est planifié, les acteurs ignorent où ils vont, découvrent les lieux en temps réel. La méthode idéale du film à petit budget. Les règles du <em>Dogme</em> dix ans auparavant.</p><p>Avec son chef opérateur, Van Sant décide de tourner en noir et blanc, d'abord par manque de moyens&nbsp;: «&nbsp;Pas question de repeindre les murs, trop compliqué, trop onéreux.&nbsp;» Et puis parce que c'est une histoire en noir et blanc. «&nbsp;Tout se résume à des nuances de gris. Ça colle bien au titre <em>Mala Noche</em>, ainsi qu'à l'idée générale. Même les photos du livre de Walt Curtis sont en noir et blanc.&nbsp;» C'est aussi la figure du jeune homme blanc et la peau mate du jeune Mexicain. «&nbsp;Le noir et blanc, c'est la nature de leur compréhension, de leur relation, de ce qui est illégal et légal dans leur monde.&nbsp;» Avec son matériel, Campbell apporte aussi son esthétique. Au film sombre, au noir dominant, il apporte un éclairage tranchant. «&nbsp;Un petit coin était éclairé et le reste plongé dans l'obscurité. Un effet de style pour mettre certaines choses en évidence.&nbsp;» Et ce sont souvent les visages des clandestins traqués, pris en gros plans, ou une partie de leurs corps dénudés, objets de désir pour le jeune Walt, qui sortent soudainement de l'obscurité, éclairés violemment par des phares de voiture ou une simple lampe électrique.</p><p>Gus Van Sant retravaille quelques années plus tard avec John Campbell sur <em>My Own Private Idaho</em> et <em>Even Cowgirls Get the Blues</em>. Mais en couleur et en collaboration avec un autre chef op de Portland, Eric Edwards. Des budgets plus conséquents, des équipes plus importantes, l'organisation et les conditions de tournage n'ont plus rien à voir avec celles du premier film. Des conditions que Gus Van Sant regrette parfois&nbsp;: «&nbsp;Il y a des éléments dans <em>Mala Noche</em> vers lesquels j'ai toujours voulu revenir. Avec John, on est parvenus à capturer des choses qui semblaient vraiment réelles, bien plus que si on avait tout programmé et tout répété. On a vraiment dû faire appel à notre imagination. C'était si peu planifié que ça donnait un souffle nouveau, une sensation d'immédiateté, une vie hors du commun.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164063974,
+        "desc": "Extrait de <em>Mala Noche</em> (Gus Van Sant, 1985)"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": 2,
+    "name": "Eric Alan Edwards",
+    "text": "<p>En préparant <em>My Own Private Idaho</em>, Gus Van Sant s'interroge. Qui de John Campbell ou d'Eric Edwards s'occupera de la prise de vue&nbsp;? Tous deux natifs de Portland, le premier a travaillé sur <em>Mala Noche</em>, le deuxième est un ami d'enfance. Finalement, le cinéaste décide d'embaucher les deux. Campbell sera à la lumière, Edwards à la caméra, association réitérée sur <em>Even Cowgirls Get the Blues</em>, le film suivant.</p><p>La rencontre entre Gus Van Sant et son «&nbsp;vieux pote Eric&nbsp;» remonte au temps du lycée, à Portland. A la fin des années 60, ils intègrent ensemble la Rhode Island School. Après les cours, ils filent dans les salles de ciné de Providence où ils découvrent <em>Orange mécanique</em>, <em>Mean Streets</em>, le cinéma européen et le cinéma vérité. Après deux années en photographie, Edwards rejoint Van Sant au département cinéma de la Rhode Island School. Là, ils ont l'idée d'un premier court métrage en 16 mm, <em>The Happy Organ</em>, pour lequel ils adoptent les techniques de narration qui deviendront la marque de fabrique des films de Van Sant&nbsp;: un récit non linéaire et l'utilisation du <em>time-lapse</em>.</p><p>L'idée du <em>time-lapse</em>, c'est Edwards. Sur <em>My Own Private Idaho</em>, pendant que les acteurs tournent une scène, il installe une deuxième caméra et filme en accéléré les collines et le ciel inspirants de l'Oregon. Van Sant le laisse faire. «&nbsp;Il maîtrisait la technique, il savait estimer la vitesse des nuages. C'était le cerveau de l'opération. Bien souvent, je ne m'en occupais pas. Il posait un trépied et on obtenait ces images.&nbsp;» Des images dont ils ne savent alors pas trop à quoi elles vont servir. Le générique&nbsp;? Au bout de trois semaines, la productrice Laurie Parker s'inquiète de voir Edwards gâcher de la pellicule&nbsp;: «&nbsp;Vous savez, le <em>time-lapse</em> coûte cher. Nous en avons déjà 600 mètres.&nbsp;» Mais pour Gus Van Sant, c'est peu, seulement une image toutes les cinq minutes. Pendant le visionnage des rushes, les bobines en <em>time-lapse</em> font sensation auprès de l'équipe. Les plans d'Edwards déclenchent à chaque fois des cris de surprise et d'enthousiasme.</p><p>Alors vient l'évidence. Plutôt que d'utiliser un plan noir pour évoquer les crises de narcolepsie de Mike, Van Sant décide d'insérer les plans accélérés d'Edwards. «&nbsp;On ignorait ce qu'on ferait. Et puis, durant l'un des derniers montages, pour renforcer le côté «&nbsp;voyage dans le temps&nbsp;» du personnage de River, on a glissé ces plans au milieu d'une scène, dans sa tête si on veut. Des plans de rêve. Le <em>time-lapse</em> apportait un éclairage sur son état d'esprit. Heureusement, on avait beaucoup d'images, on a pu choisir les plus belles, les moments parfaits.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164066227,
+        "desc": "Extraits de <em>My Own Private Idaho</em> (Gus Van Sant, 1985)"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": 2,
+    "name": "Harmony Korine",
+    "text": "<p>Le type dans la boîte de nuit qui alpague Blake dans <em>Last Days</em> pour lui proposer un peu de drogue, c'est Harmony Korine. Il faisait déjà une courte apparition aux côtés de Matt Damon dans <em>Will Hunting</em>. Avec Gus Van Sant, ils se connaissent depuis longtemps, leurs univers sont proches.</p><p>Tout commence au Washington Square Park, lorsque Harmony Korine, jeune skateboarder de 18 ans, passionné de cinéma, fait la rencontre de Larry Clark. Korine se dit «&nbsp;obsédé par le réalisme&nbsp;». Clark photographie, depuis les années 60, adolescents, sexe, drogue, violence, autant de thèmes qui rapprochent les deux hommes que trente ans séparent. Clark demande à Korine d'écrire le scénario de son premier film. Coproduit par Gus Van Sant et sorti en 1995, <em>Kids</em> trace le portrait cru d'un groupe d'ados en pleine dérive de sexe et de violence en pleine période de sida. La censure s'affole, mais le film devient culte et Harmony Korine réalise son rêve de cinéma. Infatigable touche-à-tout, il est aussi photographe, joueur de banjo, danseur de claquettes, réalise plusieurs clips, comme <em>Sunday</em> du groupe Sonic Youth, dont les deux leaders, Kim Gordon et Thurston Moore, participeront à <em>Last Days</em>.</p><p>En 1997, Korine a 25 ans et tourne son premier long métrage, <em>Gummo</em>. Venimeux, génial, espiègle, burlesque, provocateur, honnête et inspirant&nbsp;: Gus Van Sant encense le film auquel il consacre un long article. «&nbsp;Harmony Korine a débarqué avec une création totalement originale. La cataloguer serait difficile, c'est tellement nouveau qu'il faudrait une nouvelle catégorie. Il y a tant d'influences dans <em>Gummo</em>&nbsp;: Herzog, Cassavetes, Arbus, Fellini, Godard, Maysles, Jarman. Korine est un fou de Godard, il a vu tout Godard. Il connaît toute la culture populaire. Il peut te passer une copie d'un morceau des Shaggs et dire&nbsp;: «&nbsp;Écoute ça, ça va changer ta vie&nbsp;», sachant qu'effectivement un obscur groupe de rock peut réellement changer ta vie, de la même manière que <em>Gummo</em> a changé la mienne.&nbsp;»</p><p>Les deux réalisateurs ont envie de travailler ensemble. Ils se lancent dans le projet d'un film en plusieurs parties. Korine est à l'écriture, Van Sant à la réalisation du premier chapitre, intitulé <em>Jokes</em>. Le casting est composé d'inconnus trouvés sur internet. William Eggleston est le photographe de plateau. Claire Denis, Werner Herzog, Chloë Sevigny et Korine lui-même sont prévus pour tourner les épisodes suivants. Mais faute de financements, seul <em>Jokes</em> voit le jour, ou presque. Le film est présenté dans une version <em>work in progress</em> de 33 minutes au festival de Venise en 2000. L'histoire d'un homme qui se croit homosexuel après avoir vu un film porno gay avec sa femme ne sortira finalement jamais.</p><p>Après cet échec, Van Sant propose à Korine d'écrire le scénario d'<em>Elephant</em>. A l'origine, un téléfilm d'Alan Clarke, diffusé en 1989 sur la BBC et qui porte le même titre. C'est le film préféré de Korine. Mais, enfoncé dans la drogue, il sera incapable de contribuer à l'écriture du scénario de la future Palme d'or.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164995626,
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": 2,
+    "name": "Larry Clark",
+    "text": "<p>«&nbsp;Je suis né à Tulsa en Oklahoma en 1943. Quand j'avais seize ans, j'ai commencé à toucher aux amphétamines. J'y ai touché avec mes amis tous les jours pendant trois ans, puis j'ai quitté la ville mais j'y suis retourné au fil des années. Une fois que l'aiguille est plantée, elle n'en ressort jamais.&nbsp;» Tels sont les mots d'introduction de Larry Clark présentant son livre de photographies <em>Tulsa</em>. Sur les clichés, en noir et blanc, pris entre 1963 et 1971, des toxicos, des prostitués adolescents, des armes à feu. Ces images captivantes, révélant l'ennui, le malaise et l'autodestruction de jeunes marginaux, influencent fortement Scorsese pour <em>Taxi Driver</em> en 1976 et Coppola pour <em>Rusty James</em>, joué par Matt Dillon, en 1983. En 1985, Gus Van Sant s'inspire visuellement du film de Coppola pour <em>Mala Noche</em>. Mais il ne connaît pas encore l'œuvre de Larry Clark.</p><p>Si Clark se lance dans la photographie pour capter l'atmosphère du monde dans lequel il vit, c'est parce que le seul outil dont il dispose à ce moment-là est un appareil photo. Mais ce qu'il désire avant tout, c'est écrire, raconter des histoires et réaliser des films. D'ailleurs, <em>Tulsa</em> est à l'origine un projet de film pour lequel il existe quelques rushes en 16 mm, sans le son, puisque, ne pouvant emmener personne avec lui dans ces lieux cachés, il travaille seul. «&nbsp;Au moment de <em>Tulsa</em>, j'étais un personnage parmi les autres, un hors-la-loi, je me droguais. Plus tard, quand j'ai décidé de faire un film, je savais qu'il fallait que j'arrête la drogue, que je change d'image. On ne donne pas deux millions de dollars à quelqu'un qui n'a pas une image propre.&nbsp;»</p><p>Gus Van Sant découvre les photos de <em>Tulsa</em> pendant le tournage de <em>Drugstore Cowboy</em>. Le travail de Clark l'inspire profondément, jusqu'au décor du salon dans le film. Il apprend plus tard que Coppola a lui aussi puisé dans l'œuvre du photographe pour l'esthétique de son film et comprend ce qui lui a tant plu dans <em>Rusty James</em>.</p><p>Pendant ce temps, à New York, Clark poursuit son exploration photographique du monde adolescent pour lequel il éprouve une véritable fascination. Il apprend par hasard que son livre <em>Tulsa</em> figure dans les crédits de <em>Drugstore Cowboy</em> en tant qu'inspiration. Il voit le film, qui l'enthousiasme. Mais ne supportant pas qu'on marche sur ses plates-bandes, il décide de passer lui-même à la réalisation. Un jeune skater, Harmony Korine, en écrit le scénario. Gus Van Sant lui présente son directeur de la photo Eric A. Edwards. <em>Kids</em> fait sensation aux festivals de Sundance et de Cannes en 1995 et marque le début d'une filmographie choc qui scrute, à chaque fois, les dérives du monde adolescent.</p><p>«&nbsp;Gus Van Sant et moi, nous avons démontré que les films mettant en scène des adolescents ne sont pas forcément des comédies bébêtes. Je veux que les <em>kids</em> se reconnaissent en voyant mes films, c'est très important pour moi. C'est étonnant de constater que la culture américaine est orientée vers la jeunesse, mais qu'elle ne lui parle pas vraiment.&nbsp;»</p><p>L'adolescent avec lequel Clark aurait rêvé de tourner, c'est River Phoenix. Il l'admire au point de collecter toutes les photos de lui, parues dans les <em>teen-magazines</em>, et de les rassembler dans <em>The River Phoenix Book</em> en 1994. Clark dit un jour à Van Sant&nbsp;: «&nbsp;J'étais jaloux que tu travailles avec River dans <em>My Own Private Idaho</em>. Et Matt Dillon, dans <em>Drugstore Cowboy</em>, avec qui j'aurais voulu travailler quand il était gamin. Tu as tourné avec les meilleurs gars. C'est tellement triste que River soit parti.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "45-1",
+        "desc": "Photographie de Larry Clark par Gus Van Sant publiée dans <em>Interview Magazine</em> en juillet 1995 ©&nbsp;Interview Magazine"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": 2,
+    "name": "Jonathan Caouette",
+    "text": "<p>Lorsque Jonathan Caouette découvre, à 18 ans, <em>My Own Private Idaho</em>, c'est un choc. Il se reconnaît dans la peau de Mike, le héros narcoleptique incarné par River Phoenix, acteur angélique trop tôt disparu, à 23 ans, d'une overdose.</p><p>Famille disloquée, troubles psychiques, drogues... Caouette évolue depuis l'enfance dans un univers <em>trash</em>. A Houston, sa ville natale, il fréquente les boîtes gays, se travestit, s'initie à la culture punk-rock et au cinéma underground. «&nbsp;Gus a inventé le <em>grunge</em> sans le vouloir, avant qu'on utilise le mot. <em>My Own Private Idaho</em> est le premier film de fiction, sur ma génération, qui traite de front cette frange de l'Amérique, à laquelle je pouvais m'identifier complètement. Le tapin, la drogue, la famille qu'on se forme, je connaissais bien tout ça.&nbsp;»</p><p>Comme Mike qui part à la recherche de sa mère, Caouette tente de retrouver une communication avec la sienne. A l'âge de 11 ans, il commence à filmer son quotidien avec une vieille caméra Super-8 donnée par son grand-père. Pendant 20 ans, il filme son histoire familiale tragique, sa mère, maniaco-dépressive, dans une descente aux enfers accélérée par des traitements aux électro-chocs. Le format Super-8, Gus Van Sant s'en sert aussi dans <em>My Own Private Idaho</em>, à plusieurs reprises, pour évoquer les souvenirs de Mike pour sa mère. Il dit lui-même s'être inspiré d'une scène de <em>Paris, Texas</em> de Wim Wenders&nbsp;: celle du visionnage d'un film familial, tourné en Super-8, et dans lequel apparaît la mère du gamin.</p><p>Après avoir accumulé quelque cent soixante heures d'archives filmées, Jonathan Caouette décide d'en faire un montage sur son Macintosh. «&nbsp;Sous la pression amicale d'un stagiaire au festival Mix de cinéma expérimental gay et lesbien à New York, j'ai terminé le film en trois semaines, pour la date limite de candidature. Le programmateur Steven Winter m'a proposé de le placer en tête d'affiche en le réduisant à deux heures. Ce festival, c'est là que Todd Haynes et Gus Van Sant ont commencé&nbsp;!&nbsp;»</p><p>John Cameron Mitchell, réalisateur d'<em>Hedwig and the Angry Inch</em>, et Gus Van Sant découvrent alors avec enthousiasme ce premier montage. Ils décident de le peaufiner et de produire le film. <em>Tarnation</em> est présenté au festival de Sundance en 2004.</p><p>«&nbsp;Tarnation&nbsp;»&nbsp;? «&nbsp;Un mot composé, une sorte de juron enfantin, moins grossier que <em>Damnation</em>. J'aime bien ce mot, qui comprend à la fois l'idée de damner et de ternir. Les anges ternis sont les anges déchus... Les plus beaux.&nbsp;»</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164981879,
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": 2,
+    "name": "Todd Haynes",
+    "text": "<p>C'est en voisins que Todd Haynes et Gus Van Sant se fréquentent, avec Portland comme terre d'élection. Gus Van Sant y a trouvé refuge depuis la fin des années 70, Haynes l'a rejoint au tout début des années 2000 –&nbsp;sa maison se trouve d'ailleurs à quelques encablures du lycée où fut tourné <em>Elephant</em>.</p><p>Les deux cinéastes s'apprécient, se côtoient dans les cercles culturels de la ville, et s'interviewent même mutuellement à l'occasion. Deux entretiens, donnés pour les web-magazines <em>arty</em> <em>Issue Magazine</em> et <em>Willamette Week</em>, donnent les clés d'un cheminement commun&nbsp;: des études artistiques à la Rhode Island School of Design (qui vit aussi passer David Byrne et James Franco dans ses murs)&nbsp;; un intérêt partagé pour les marges de la société américaine, aussi bien sexuelles qu'artistiques ou politiques&nbsp;; des affinités esthétiques&nbsp;; et aussi, plus surprenant, un enthousiasme réciproque pour la technique&nbsp;: après les questions d'usages, les deux entretiens virent rapidement aux petits secrets de fabrication partagés avec passion, choix de lentilles, formats de pellicule, effets de montage...</p><p>Alors qu'une carte blanche lui est proposée au printemps 2016 à la Cinémathèque, Gus Van Sant y inclut spontanément <em>Superstar: The Karen Carpenter Story</em> de Todd Haynes. Au-delà de leur amitié, on devine aussi, au travers de ce choix, ce qui peut lier les deux cinéastes. Les débuts <em>undergound</em> (un court métrage tourné en 16mm dont les acteurs principaux sont des Barbie pour l'un&nbsp;; un film en noir et blanc –&nbsp;<em>Mala Noche</em>&nbsp;– tourné pour 22&nbsp;000&nbsp;US$ pour l'autre) et cette faculté, étonnante, à enchaîner par la suite projets confidentiels et films hollywoodiens <em>mainstream</em>.</p>",
+    "media": [
+      {
+        "type": "img",
+        "id": "47-1",
+        "desc": "Todd Haynes interviewe Gus Van Sant chez lui en 2012 ©&nbsp;<a href=&quot;http://www.wweek.com/portland/article-20060-gus-co-directors.html&quot;'>Willamette Week</a>"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": 2,
+    "name": "Alan Clarke",
+    "text": "<p>En de longs plans séquences, la caméra filme des hommes, souvent de dos, ils traversent des couloirs, des terrains de sports, et enchaînent les meurtres sans aucune explication. <em>Elephant</em>. Pas celui de Gus Van Sant, celui d'Alan Clarke.</p><p>Produit en 1989 pour la BBC, le film s'inspire de la vague de terrorisme nord-irlandais qui frappe le Royaume-Uni dans les années 80. Clarke lui donne le titre d'<em>Elephant</em> en référence à la citation de l'auteur originaire de Belfast, Bernard MacLaverty, à propos des «&nbsp;troubles&nbsp;» d'Irlande du Nord, visibles de tous mais que tout le monde préfère ignorer&nbsp;–&nbsp;«&nbsp;the elephant in our living room&nbsp;».</p><p>Sans dialogue, le moyen métrage de 39 minutes a pour seule bande-son les pas des personnages, les bruits de circulation et ceux des effroyables coups de feu. Les dix-huit séquences montrent à chaque fois un tueur exécutant de sang froid une victime prise au hasard, sauf la dernière où l'un des meurtriers, consentant, se prend une balle dans la tête.</p><p>Gus Van Sant n'a pas vu le film de Clarke, mais Harmony Korine lui en a beaucoup parlé, décrivant chaque plan. Van Sant n'est pas non plus à l'origine du choix d'<em>Elephant</em> pour intituler son film sur le massacre de Columbine. Pourtant l'emprunt du titre à Clarke annonce clairement des similitudes avec l'œuvre du cinéaste anglais. Comme Clarke, Van Sant recourt à de longs plans séquences et montre la même fascination pour les personnages en train de marcher (les tueurs parcourent dans les deux films de longues distances avant d'atteindre leurs victimes). Comme lui, il utilise des enregistrements sonores externes pour traduire un environnement mental inquiétant. Les deux films ne tentent aucune explication psychologique sur les événements qui ont lieu, des faits réels extrêmement violents, représentés avec tout l'impact que seul le cinéma peut créer. Ils parviennent ainsi à capturer la banalité de cette violence. Et même si celle-ci est décrite de façon monstrueuse, elle est aussi perpétrée par des gens ordinaires.</p><p>Dans l'entourage de Van Sant, la référence au film de Clarke revient souvent. Il finit donc par le visionner. «&nbsp;Je voulais savoir si, avant de terminer le film, on pouvait effectivement l'appeler <em>Elephant</em>. J'avais l'habitude de m'inspirer de Béla Tarr, qui peut faire penser par certains aspects à Alan Clarke. Il y avait donc plusieurs ressemblances entre nos films, même si parfois elles étaient dues au hasard. J'ai finalement appelé Danny Boyle, producteur du film de Clarke, qui lui était mort en 1990, pour lui demander s'il nous autorisait à intituler notre film <em>Elephant</em>. Il trouvait ça bien, c'est donc ainsi qu'il se nomme.&nbsp;»</p><p>En 2003, le film de Van Sant reçoit la Palme d'or à Cannes, un prix qui aura permis de (re)découvrir l'œuvre d'Alan Clarke et sa description d'une époque de profond malaise.</p>",
+    "media": [
+      {
+        "type": "video",
+        "id": 164063972,
+        "desc": "Extrait d'<em>Elephant</em> (Gus Van Sant, 2003)"
+      }
+    ]
+  }
+]

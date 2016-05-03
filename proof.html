@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>[Proofreading] GVS</title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic">
+    <style>
+    .container {
+      width: 700px; margin: 24px auto;
+      font-family: Source Sans Pro; font-size: 1rem; line-height: 1.5;
+    }
+    hr { margin: 36px 0 18px 0; border: none; border-top: solid 1px #999; }
+    strong { font-weight: 600; }
+    .hi { background-color: #fdc; padding: 0 .15rem; }
+
+
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.1.0/lodash.js"></script>
+    <script>
+    function display(data) {
+
+      _.templateSettings.interpolate = /{{([\s\S]+?)}}/g;
+      var templateIndex = _.template("<ul><% _.forEach(arguments[0], function (item) { %><li>({{ item.id }}) <a href='#anchor{{ item.id }}'>{{ item.name }}</a></li><% }); %></ul>");
+      var template = _.template("<a id='anchor{{ id }}' name='anchor{{ id }}'></a><h2>({{id}}) {{name}}</h2><div class='text'>{{ text }}</div><hr>");
+      // var template = _.template("<h2>({{id}}) {{name}}</h2><div class='text'>{{ text }}</div><hr>");
+
+
+      $(".container").append(templateIndex(data));
+
+      _.forEach(data, function (item) {
+        $(".container").append(template(item).replace(/&nbsp;/gi, "<span class='hi'>&nbsp;</span>"));
+      });
+    }
+
+    function normalizeCollection (collection, properties) {
+      properties = properties || [];
+      return _.map(collection, function (obj) {
+        return _.assign({}, _.zipObject(properties, _.fill(Array(properties.length), null)), obj);
+      });
+    }
+    </script>
+  </head>
+  <body>
+
+    <div class="container">
+      
+    </div>
+
+    <script>
+    // $.getJSON("data/cards.json").done(display);
+
+    $.when($.getJSON("data/data.json")).then(function (data) {
+      display(_.filter(data, { level: 2 }));
+    });
+    </script>
+  </body>
+</html>
