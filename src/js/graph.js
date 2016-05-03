@@ -77,16 +77,56 @@ var graph = (function () {
   function update(focusNode) {
     focusNode = focusNode || _.find(data.nodes, { level: 0 });
 
+
+    // TEST
+    node
+    .filter(function (d) { return d.id === 16 })
+    .each(function (d) {
+      isChild(d, focusNode);
+    });
+
+
     node.select("circle")
+      .transition().duration(500)
       .attr("r", function (d) {
-        return 8;
+        if (focusNode.level === 0) {
+          if (d.level === 2) return 8;
+          if (d.level === 1) return 12;
+          if (d.level === 0) return 16;
+        }
+        if (focusNode.level === 1) {
+          if (d.level === 2) return (isChild(d, focusNode) ? 12 : 8);
+          if (d.level === 1) return (d === focusNode ? 12 : 8);
+          if (d.level === 0) return 12;
+        }
+        if (focusNode.level === 2) {
+          return ($(this).attr("r")); // Bof
+        }
       })
       .attr("class", function (d) {
+        if (focusNode.level === 0) {
+          if (d.level === 2) return "d1";
+          if (d.level === 1) return "d3";
+          if (d.level === 0) return "d3";
+        }
+        if (focusNode.level === 1) {
+          if (d.level === 2) return (isChild(d, focusNode) ? "d3" : "d1");
+          if (d.level === 1) return (d === focusNode ? "d3" : "d2");
+          if (d.level === 0) return "d2";
+        }
+
+
+
       });
 
     node.select("text")
       .attr("class", function (d) {
       });
+
+
+
+
+
 
   }
 
@@ -106,6 +146,12 @@ var graph = (function () {
       })
       .flatten()
       .value();
+  }
+
+  function isChild(n1, n2) { // Is n1 a direct child of n2?
+    // console.log("Is " + n1.id + " a direct child of " + n2.id + "?");
+    // console.log((_.isUndefined(n2.children) ? false : _.indexOf(n2.children, n1.id) > -1) ? "Yes" : "No");
+    return (_.isUndefined(n2.children) ? false : _.indexOf(n2.children, n1.id) > -1);
   }
 
 

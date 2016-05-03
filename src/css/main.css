@@ -36,7 +36,12 @@ svg#gvstitle {
 circle {
   fill: #fff;
   cursor: pointer;
+  transition: 0.5s;
 }
+
+circle.d1 { opacity: 0.25; }
+circle.d2 { opacity: 0.75; }
+circle.d3 { opacity: 1; }
 
 text {
   fill: #fff;
