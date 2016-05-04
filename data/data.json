@@ -696,5 +696,10 @@
         "desc": "Extrait d'<em>Elephant</em> (Gus Van Sant, 2003)"
       }
     ]
+  },
+  {
+    "id": "credits",
+    "level": 1,
+    "name": "Crédits"
   }
 ]
