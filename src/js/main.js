@@ -6,7 +6,7 @@ var main = (function () {
   var elViewer = document.querySelector("#viewer");
 
   _.templateSettings.interpolate = /{{([\s\S]+?)}}/g;
-  templateString = "<div class='title'><h1><span class='light'>Gus Van Sant&nbsp;+ </span>{{ name }}</h1></div><div class='left'><% _.forEach(media, function (m, i) { %><div class='mediaWrapper'><% if (m.type === 'video') { %><div class='videoContainer'><iframe class='video' src='//player.vimeo.com/video/{{m.id}}' frameborder='0'></iframe></div><%  } else if (m.type === 'img') { %><img src='http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/items/{{ m.id }}.jpg' alt=''><% } %><div class='caption'>{{ m.desc }}</div></div><% }); %></div><div class='right'><div class='textContainer'>{{ text }}</div></div>";
+  templateString = "<div class='title'><h1><span class='light'>Gus Van Sant&nbsp;+ </span>{{ name }}</h1></div><div class='left'><% _.forEach(media, function (m, i) { %><div class='mediaWrapper'><% if (m.type === 'video') { %><div class='videoContainer'><iframe class='video' src='//player.vimeo.com/video/{{m.id}}' frameborder='0'></iframe></div><%  } else if (m.type === 'img') { %><img src='http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/items/{{ m.id }}' alt=''><% } %><div class='caption'>{{ m.desc }}</div></div><% }); %></div><div class='right'><div class='textContainer'>{{ text }}</div></div>";
 
   d3.json("data/data.json", function (error, _data) {
     var data = normalizeCollection(_data, ["media"]);

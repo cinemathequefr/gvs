@@ -115,6 +115,16 @@ var graph = (function () {
           }
         }
       });
+
+    node.select("circle")
+      .filter(function (d) { return d.id === "credits"; })
+      .style({ "opacity": 0.75 });
+    node.select("text")
+      .filter(function (d) { return d.id === "credits"; })
+      .style({ "opacity": 0.75 });
+
+
+
   }
 
 
