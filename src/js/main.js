@@ -1,7 +1,12 @@
 var main = (function () {
   "use strict";
+  var templateString;
   var elGraph = document.querySelector("svg#graph");
   var elBg = document.querySelectorAll(".bg");
+  var elViewer = document.querySelector("#viewer");
+
+  _.templateSettings.interpolate = /{{([\s\S]+?)}}/g;
+  templateString = "<div class='title'><h1><span class='light'>Gus Van Sant&nbsp;+ </span>{{ name }}</h1></div><div class='left'><% _.forEach(media, function (m, i) { %><div class='mediaWrapper'><% if (m.type === 'video') { %><div class='videoContainer'><iframe class='video' src='//player.vimeo.com/video/{{m.id}}' frameborder='0'></iframe></div><%  } else if (m.type === 'img') { %><img src='http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/items/{{ m.id }}.jpg' alt=''><% } %><div class='caption'>{{ m.desc }}</div></div><% }); %></div><div class='right'><div class='textContainer'>{{ text }}</div></div>";
 
   d3.json("data/data.json", function (error, _data) {
     var data = normalizeCollection(_data, ["media"]);
@@ -14,40 +19,24 @@ var main = (function () {
       "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/4.jpg",
       "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/5.jpg",
       "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/6.jpg"
-    ], 5000, 2000);
+    ], 2500, 2000);
 
+    viewer.init($(elViewer), templateString);
     graph.init(elGraph, data);
 
 
-
-    graph.on("click", function (e, node) {
+    graph.on("graph.click", function (e, node) {
       if (node.level === 2) {
-        bg.next(); // TODO: Move this to a viewer close event callback
-        // viewer.open(node);
+        // bg.next(); // TODO: Move this to a viewer close event callback
+        viewer.open(node);
       }
     });
 
-
-
+    viewer.on("viewer.close", function () {
+      bg.next();
+    })
 
   });
-
-
-  // function cycle(n) { // Change background after each n clicks on a node
-  //   bgCycle = (bgCycle % n === (n - 1) ? (window.setTimeout(bg.next, 5000), 0) : bgCycle + 1);
-  // };
-
-  // function cycle(n) { // Change background after each n clicks on a node
-  //   var i = 0;
-  //   return (function () {
-  //     console.log(i);
-  //     // i = (i % n === (n - 1) ? (window.setTimeout(bg.next, 5000), 0) : i + 1);
-  //     i = (i % n === (n - 1) ? (window.setTimeout(bg.next, 0), 0) : i + 1);
-  //   })();
-  // };
-
-
-
 
   function normalizeCollection(collection, properties) {
     properties = properties || [];
@@ -60,6 +49,12 @@ var main = (function () {
 })();
 
 $(main);
+
+
+
+
+
+
 
 
 /*

@@ -1,4 +1,5 @@
 var graph = (function () {
+  "use strict";
   var elContainer;
   var data = {};
   var width, height;
@@ -49,7 +50,7 @@ var graph = (function () {
 
     g.append("circle")
       .on("click", function (d) {
-        $.publish("click", d);
+        $.publish("graph.click", d);
         shake();
         update(d);
       });
@@ -57,7 +58,7 @@ var graph = (function () {
     g.append("text")
       .text(function (d) { return d.name; })
       .on("click", function (d) {
-        $.publish("click", d);
+        $.publish("graph.click", d);
         shake();
         update(d);
       });
@@ -114,12 +115,10 @@ var graph = (function () {
           }
         }
       });
-
   }
 
 
   // Private functions
-
   function getLinks(data) { // See: https://github.com/mbostock/d3/wiki/Force-Layout#links
     return _(data)
       .filter("children")
@@ -140,7 +139,7 @@ var graph = (function () {
   }
 
   function parent(n1) {
-    return _(data.nodes).find(function (n) { return isChild(n1, n) });
+    return _(data.nodes).find(function (n) { return isChild(n1, n); });
   }
 
   function level1(n1) {
@@ -151,162 +150,6 @@ var graph = (function () {
     return (level1(n1) === level1(n2));
   }
 
-
-
-  return {
-    init: init,
-    on: on,
-    shake: shake,
-    update: update
-  };
-
-
-})();
-
-
-
-
-
-
-
-/*
-var graph = (function () {
-  var width;
-  var height;
-  var data = {};
-  var force;
-  var svg;
-  var elContainer;
-
-
-  function init(_elContainer, _data) {
-    elContainer = _elContainer;
-    data.nodes = _data;
-    data.links = getLinks(data.nodes);
-
-    width = window.innerWidth;
-    height = window.innerHeight;
-
-    force = d3.layout.force()
-      .charge(-200)
-      .linkDistance(200)
-      .gravity(0.035)
-      .size([ width, height ]);
-
-    svg = d3.select(elContainer)
-      .attr("width", width)
-      .attr("height", height);
-
-    force
-      .nodes(data.nodes)
-      .links(data.links)
-      .start();
-
-    update();
-
-  }
-
-
-  function on(event, callback) {
-    $.subscribe(event, callback);
-  }
-
-
-  function shake() {
-    force.alpha(Math.max(force.alpha(), 0.2));
-  }
-
-
-  function update(focusNode) {
-    var link = svg.selectAll(".link").data(data.links);
-    var node = svg.selectAll(".node").data(data.nodes);
-    var nodeGroup;
-
-    focusNode = focusNode || _.find(data.nodes, { level: 0 }); // Default: the "root" node
-
-    // svg.attr("class", "atLevel" + focusNode.level);
-    if (focusNode.level < 2) svg.attr("class", "atLevel" + focusNode.level);
-
-    // Begin Enter
-    link.enter()
-    .append("line")
-    .attr("class", function (d) { return "link level" + d.target.level; }); // http://stackoverflow.com/questions/17452453/how-can-i-use-d3-classed-selection-to-have-name-as-function
-
-    nodeGroup = node.enter()
-      .append("g")
-      .attr("class", function (d) { return "node level" + d.level; })
-      .call(force.drag);
-
-    nodeGroup.append("circle")
-      .attr("r", function (d) { return getRadius(0)[d.level]; })
-      .on("click", function (d) {
-        $.publish("click", d);
-        shake();
-        update(d);
-      });
-
-    nodeGroup.append("text")
-      .text(function (d) { return d.name; })
-      .attr("y", function (d) { return [25, 25, 25][d.level] })
-      .on("click", function (d) {
-        $.publish("click", d);
-        shake();
-        update(d);
-      });
-    // End enter
-
-    if (focusNode.level === 1) {
-      var children = node.filter(function (d) { return _.indexOf(focusNode.children, d.id) > -1; });
-      node.classed("on", false);
-      children.classed("on", true);
-    }
-
-    force.on("tick", function() {
-
-      link
-      .attr("x1", function(d) { return d.source.x; })
-      .attr("y1", function(d) { return d.source.y; })
-      .attr("x2", function(d) { return d.target.x; })
-      .attr("y2", function(d) { return d.target.y; });
-
-      node
-      .attr("transform", function (d) { return "translate(" + d.x + "," + d.y + ")"; });
-
-    });
-
-  }
-
-
-  function resize() {
-    width = window.innerWidth;
-    height = window.innerHeight;
-    // Do something
-  }
-
-
-
-
-  // Private functions
-  function getLinks(data) { // See: https://github.com/mbostock/d3/wiki/Force-Layout#links
-    return _(data)
-      .filter("children")
-      .map(function (source, i) {
-        return _.map(source.children, function (target) {
-          return {
-            source: i,
-            target: _.findIndex(data, { id: target })
-          };
-        });
-      })
-      .flatten()
-      .value();
-  }
-
-  function getRadius(level) {
-    if (level === 0) return [10, 7, 5];
-    if (level === 1) return [10, 10, 7];
-  }
-
   return {
     init: init,
     on: on,
@@ -314,4 +157,3 @@ var graph = (function () {
     update: update
   };
 })();
-*/

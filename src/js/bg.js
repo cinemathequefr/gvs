@@ -9,7 +9,8 @@ var bg = (function () {
 
   // $_bg: jQuery selection of 2 containers
   // _imgs: array of img urls
-  // _duration: duration of cross-fade
+  // _delay: delay (ms) before starting cross-fade
+  // _duration: duration (ms) of cross-fade
   function init(_$bg, _imgs, _delay, _duration) {
     $bg = _$bg;
     imgs = _imgs; // Array of image URLs (TODO: preload)

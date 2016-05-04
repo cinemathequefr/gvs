@@ -16,14 +16,17 @@ var viewer = (function () {
     $viewer.append("<div class='viewerContent'></div><div class='viewerClose'></div>");
     $viewerContent = $viewer.children(".viewerContent");
     $viewerClose = $viewer.children(".viewerClose").hide();
-
     $viewer.perfectScrollbar({
       suppressScrollX: true,
       wheelSpeed: 3
     });          
-
-
   }
+
+
+  function on(event, callback) {
+    $.subscribe(event, callback);
+  }
+
 
   function open(_node) {
     node = _node;
@@ -81,11 +84,13 @@ var viewer = (function () {
     })
     .one("transitionend", function () {
       isOpen = false;
+      $.publish("viewer.close");
     });
   }
 
   return {
     init: init,
+    on: on,
     open: open
   };
 })();
