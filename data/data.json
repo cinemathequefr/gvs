@@ -699,7 +699,10 @@
   },
   {
     "id": "credits",
-    "level": 1,
-    "name": "Crédits"
+    "level": 2,
+    "name": "Crédits",
+    "text": "<p>Constellation Gus Van Sant a été réalisé par le service Web de la Cinémathèque française à l'occasion de l'exposition et de la rétrospective Gus Van Sant, du 13 avril au 31 juillet 2016.</p><p>Textes&nbsp;: Delphine Simon-Marsaud et Xavier Jamet<br>Conception&nbsp;: Nicolas Le Thierry d'Ennequin<br>Montages&nbsp;: Frédéric Benzaquen</p><p>Remerciements à Gus Van Sant, Matthieu Orléan et <a href='https://vimeo.com/user3696717'>Felix Andrew</a>.</p></ul><li><em>Elephant</em>, Gus Van Sant, 2003 ©&nbsp;HBO</li><li><em>Gerry</em>, Gus Van Sant, 2002 ©&nbsp;Diaphana Distribution pour MK2</li><li><em>Last Days</em>, Gus Van Sant, 2004 ©&nbsp;Diaphana Distribution pour MK2</li><li><em>Mala Noche</em>, Gus Van Sant, 1985 ©&nbsp;Diaphana Distribution pour MK2</li><li><em>My Own Private Idaho</em>, Gus Van Sant, 1991 ©&nbsp;Warner Bros Picture</li><li><em>Paranoid Park</em>, Gus Van Sant, 2006 ©&nbsp;Diaphana Distribution pour MK2</li><li><em>Psycho</em>, Gus Van Sant, 1998 ©&nbsp;UIP-Universal</li><li><em>The Balad of Skeletons</em>, Gus Van Sant, 1996, ©&nbsp;Gus Van Sant</li><li><em>Rolling Through Time</em>, Felix Andrew, 2002 ©&nbsp;Felix Andrew</li><li><em>Salt Lake Van Sant</em>, Felix Andrew, 2001 ©&nbsp;Felix Andrew</li><li><em>The Making of Last Days</em>, Felix Andrew, 2004 ©&nbsp;Felix Andrew</li><li><em>The Making of Paranoid Park</em>, Felix Andrew, 2006 ©&nbsp;Felix Andrew</li><li><em>I'm Still Here</em>, Casey Affleck, 2011 ©&nbsp;CTV International</li><li><em>Elephant</em>, Alan Clarke, 1989 ©&nbsp;Potemkine Films</li><li><em>Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles</em>, Chantal Akerman, 1976 ©&nbsp;Carlotta Films</li></ul>"
   }
 ]
+
+

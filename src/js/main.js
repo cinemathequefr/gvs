@@ -45,9 +45,16 @@ var main = (function () {
       viewer.close();
     });
     Path.map("#!/").to(navigateGraph);
+    Path.map("#!/credits").to(navigateCredits);
     Path.map("#!/:id").to(navigateViewer);
     Path.rescue(_.noop);
     Path.listen();
+
+    function navigateCredits() {
+      var node = _(data).find({ id: "credits" });
+      graph.update(node);
+      viewer.open(node);
+    }
 
     function navigateGraph() {
       viewer.close();
