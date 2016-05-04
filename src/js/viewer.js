@@ -31,6 +31,7 @@ var viewer = (function () {
   function open(_node) {
     node = _node;
     if (isOpen === true) return;
+    if (node.level !== 2) return;
     $viewer.css({ top: node.y + "px", left: node.x + "px" });
 
     window.setTimeout(function () { // Important: timeout allows top/left position to be properly set before transitioning
@@ -89,6 +90,7 @@ var viewer = (function () {
   }
 
   return {
+    close: close,
     init: init,
     on: on,
     open: open
