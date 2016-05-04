@@ -39,16 +39,22 @@ circle {
   transition: 0.5s;
 }
 
-circle.d1 { opacity: 0.25; }
-circle.d2 { opacity: 0.75; }
-circle.d3 { opacity: 1; }
-
 text {
   fill: #fff;
   text-anchor: middle;
   cursor: pointer;
-  transform: translateY(28px);
+  transition: 0.5s;
 }
+
+.d1 { opacity: 0.15; }
+.d2 { opacity: 0.35; }
+.d2b { opacity: 0.85; }
+.d3 { opacity: 1; }
+
+text.d1 { font-size: 12px; transform: translateY(20px); }
+text.d2, text.d2b { font-size: 18px; transform: translateY(30px); }
+text.d3 { font-size: 24px; transform: translateY(36px); }
+
 
 .link {
   stroke: #999;

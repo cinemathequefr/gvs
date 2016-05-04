@@ -90,37 +90,38 @@ var graph = (function () {
       .transition().duration(500)
       .attr("r", function (d) {
         if (focusNode.level === 0) {
-          if (d.level === 2) return 8;
-          if (d.level === 1) return 12;
-          if (d.level === 0) return 16;
-        }
-        if (focusNode.level === 1) {
-          if (d.level === 2) return (isChild(d, focusNode) ? 12 : 8);
-          if (d.level === 1) return (d === focusNode ? 12 : 8);
-          if (d.level === 0) return 12;
-        }
-        if (focusNode.level === 2) {
-          return ($(this).attr("r")); // Bof
+          return [12, 9, 6][d.level];
+        } else {
+          if (isOnSameBranch(focusNode, d)) {
+            return [12, 9, 12][d.level];
+          } else {
+            return [12, 9, 6][d.level];
+          }
         }
       })
       .attr("class", function (d) {
         if (focusNode.level === 0) {
-          if (d.level === 2) return "d1";
-          if (d.level === 1) return "d3";
-          if (d.level === 0) return "d3";
+          return ["d3", "d2b", "d1"][d.level];
+        } else {
+          if (isOnSameBranch(focusNode, d)) {
+            return ["d3", "d2b", "d3"][d.level];
+          } else {
+            return ["d3", "d2", "d1"][d.level];
+          }
         }
-        if (focusNode.level === 1) {
-          if (d.level === 2) return (isChild(d, focusNode) ? "d3" : "d1");
-          if (d.level === 1) return (d === focusNode ? "d3" : "d2");
-          if (d.level === 0) return "d2";
-        }
-
-
-
       });
 
     node.select("text")
       .attr("class", function (d) {
+        if (focusNode.level === 0) {
+          return ["d3", "d2b", "d1"][d.level];
+        } else {
+          if (isOnSameBranch(focusNode, d)) {
+            return ["d3", "d2b", "d3"][d.level];
+          } else {
+            return ["d3", "d2", "d1"][d.level];
+          }
+        }
       });
 
 
@@ -149,9 +150,19 @@ var graph = (function () {
   }
 
   function isChild(n1, n2) { // Is n1 a direct child of n2?
-    // console.log("Is " + n1.id + " a direct child of " + n2.id + "?");
-    // console.log((_.isUndefined(n2.children) ? false : _.indexOf(n2.children, n1.id) > -1) ? "Yes" : "No");
     return (_.isUndefined(n2.children) ? false : _.indexOf(n2.children, n1.id) > -1);
+  }
+
+  function parent(n1) {
+    return _(data.nodes).find(function (n) { return isChild(n1, n) });
+  }
+
+  function level1(n1) {
+    return [null, n1, parent(n1)][n1.level];
+  }
+
+  function isOnSameBranch(n1, n2) {
+    return (level1(n1) === level1(n2));
   }
 
 
