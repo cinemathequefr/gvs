@@ -28,7 +28,6 @@ var main = (function () {
     // Event handling
     graph.on("graph.click", function (e, node) {
       if (node.level === 2) {
-        // viewer.open(node);
         window.location.hash = "#!/" + node.id;
       }
     });
@@ -56,11 +55,12 @@ var main = (function () {
 
     function navigateViewer() {
       var id = parseInt(this.params.id, 10);
-      var n = _(data).find({ id: id });
-      if (_.isUndefined(n) || _.isUndefined(n.level) || n.level !== 2) {
+      var node = _(data).find({ id: id });
+      if (_.isUndefined(node) || _.isUndefined(node.level) || node.level !== 2) {
         window.location.hash = "#!/";
       } else {
-        viewer.open(n);
+        graph.update(node);
+        viewer.open(node);
       }
     }
 
