@@ -51,6 +51,12 @@ text {
 .d2b { opacity: 0.85; }
 .d3 { opacity: 1; }
 
+/*
+circle.d1 { transform: scale(100%); }
+circle.d2, circle.d2b { transform: scale(150%); }
+circle.d3 { transform: scale(200%); }
+*/
+
 text.d1 { font-size: 12px; transform: translateY(20px); }
 text.d2, text.d2b { font-size: 18px; transform: translateY(30px); }
 text.d3 { font-size: 24px; transform: translateY(36px); }
