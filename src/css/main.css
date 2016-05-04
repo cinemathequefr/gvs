@@ -69,34 +69,6 @@ text.d3 { font-size: 24px; transform: translateY(36px); }
 
 
 
-
-
-
-
-/*
-.level0 { opacity: 1; font-size: 1.5rem; transition: 0.5s; }
-.level1 { opacity: 0.75; font-size: 1.25rem; transition: 0.5s; }
-.level2 { opacity: 0.25; font-size: 0.75rem; transition: 0.5s; }
-.atLevel1 .level2.on { opacity: 1; font-size: 1.5rem; }
-*/
-
-/*
-.level0 { opacity: 1; transition: 0.2s; }
-.level1 { opacity: 0.75; transition: 0.2s; }
-.level2 { opacity: 0.25; transition: 0.2s; }
-.node.level0 { font-size: 1.5rem; transition: 0.2s; }
-.node.level1 { font-size: 1.125rem; transition: 0.2s; }
-.node.level2 { font-size: 0.75rem; transition: 0.2s; }
-
-.atLevel1 .level0 { opacity: 1; }
-.atLevel1 .level1 { opacity: 0.25; }
-.atLevel1 .level2 { opacity: 0.25; }
-.atLevel1 .level2.on { opacity: 1; }
-.atLevel1 .node.level2.on { font-size: 1.5rem; fill-opacity: 1; }
-*/
-
-/*.node.level2:hover { fill-opacity: 1; transition: .2s; }*/
-
 #viewer {
   position: fixed;
   background-color: rgba(255, 255, 255, 0.9);

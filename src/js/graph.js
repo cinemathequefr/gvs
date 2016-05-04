@@ -48,13 +48,11 @@ var graph = (function () {
       .attr("class", "node");
 
     g.append("circle")
-      // .attr("r", 9)
       .on("click", function (d) {
         $.publish("click", d);
         shake();
         update(d);
       });
-
 
     g.append("text")
       .text(function (d) { return d.name; })
@@ -68,8 +66,9 @@ var graph = (function () {
     update();
   }
 
-
-  function on() {}
+  function on(event, callback) {
+    $.subscribe(event, callback);
+  }
 
   function shake() {
     force.alpha(Math.max(force.alpha(), 0.2));
@@ -77,15 +76,6 @@ var graph = (function () {
 
   function update(focusNode) {
     focusNode = focusNode || _.find(data.nodes, { level: 0 });
-
-
-    // TEST
-    // node
-    // .filter(function (d) { return d.id === 16 })
-    // .each(function (d) {
-    //   isChild(d, focusNode);
-    // });
-
 
     node.select("circle")
       .transition().duration(500)
@@ -124,11 +114,6 @@ var graph = (function () {
           }
         }
       });
-
-
-
-
-
 
   }
 

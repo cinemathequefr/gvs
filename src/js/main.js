@@ -1,12 +1,53 @@
 var main = (function () {
   "use strict";
   var elGraph = document.querySelector("svg#graph");
+  var elBg = document.querySelectorAll(".bg");
 
   d3.json("data/data.json", function (error, _data) {
     var data = normalizeCollection(_data, ["media"]);
     if (error) throw error;
+
+    bg.init($(elBg), [
+      "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/1.jpg",
+      "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/2.jpg",
+      "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/3.jpg",
+      "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/4.jpg",
+      "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/5.jpg",
+      "http://www.cinematheque.fr/expositions-virtuelles/gus-van-sant/img/sky/6.jpg"
+    ], 5000, 2000);
+
     graph.init(elGraph, data);
+
+
+
+    graph.on("click", function (e, node) {
+      if (node.level === 2) {
+        bg.next(); // TODO: Move this to a viewer close event callback
+        // viewer.open(node);
+      }
+    });
+
+
+
+
   });
+
+
+  // function cycle(n) { // Change background after each n clicks on a node
+  //   bgCycle = (bgCycle % n === (n - 1) ? (window.setTimeout(bg.next, 5000), 0) : bgCycle + 1);
+  // };
+
+  // function cycle(n) { // Change background after each n clicks on a node
+  //   var i = 0;
+  //   return (function () {
+  //     console.log(i);
+  //     // i = (i % n === (n - 1) ? (window.setTimeout(bg.next, 5000), 0) : i + 1);
+  //     i = (i % n === (n - 1) ? (window.setTimeout(bg.next, 0), 0) : i + 1);
+  //   })();
+  // };
+
+
+
 
   function normalizeCollection(collection, properties) {
     properties = properties || [];
