@@ -116,14 +116,17 @@ var graph = (function () {
         }
       });
 
+    link
+      .classed("d3", function (d) {
+        return (level1(focusNode) === level1(d.source) || focusNode === level1(d.target));
+      });
+
     node.select("circle")
       .filter(function (d) { return d.id === "credits"; })
-      .style({ "opacity": 0.75 });
+      .style({ opacity: 0.75 });
     node.select("text")
       .filter(function (d) { return d.id === "credits"; })
-      .style({ "opacity": 0.75 });
-
-
+      .style({ opacity: 0.75 });
 
   }
 

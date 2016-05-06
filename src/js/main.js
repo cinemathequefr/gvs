@@ -41,14 +41,20 @@ var main = (function () {
     // Routing
     // NOTE: not implemented: going from an open viewer to another one by manually changing the id the location hash
     Path.root("#!/");
-    Path.map("#!/").to(function() {
-      viewer.close();
-    });
-    Path.map("#!/").to(navigateGraph);
-    Path.map("#!/credits").to(navigateCredits);
-    Path.map("#!/:id").to(navigateViewer);
+
+
+    // Path.map("#!/").enter(updateAnalytics).to(function() {
+    //   viewer.close();
+    // });
+    Path.map("#!/").enter(updateAnalytics).to(navigateGraph);
+    Path.map("#!/credits").enter(updateAnalytics).to(navigateCredits);
+    Path.map("#!/:id").enter(updateAnalytics).to(navigateViewer);
     Path.rescue(_.noop);
     Path.listen();
+
+    function updateAnalytics () {
+      ga("send", "pageview", document.location.href);
+    }
 
     function navigateCredits() {
       var node = _(data).find({ id: "credits" });
@@ -67,7 +73,7 @@ var main = (function () {
         window.location.hash = "#!/";
       } else {
         graph.update(node);
-        viewer.open(node);
+        window.setTimeout(function () { viewer.open(node); }, 150);
       }
     }
 
